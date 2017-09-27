@@ -1,0 +1,1 @@
+curl --user linda:LpgPvY1sPISDHZtii1eB -X GET 'http://42.51.17.66/elasticsearch/udplog-*/#TYPE/_search?from=#FROM&size=#SIZE' -d '{"query" : { "range": { "timestamp" : { "gte" : "#START_T", "lt" : "#END_T"  } } } }'

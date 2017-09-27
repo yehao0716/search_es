@@ -1,0 +1,581 @@
+a:09/15/17
+t_start:1505433589
+b:09/16/17
+t_end:1505519989
+t_tmp:1505434789
+开始查询from:1505433589 to:1505434789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3080 --:--:-- --:--:-- --:--:--  3080  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0 23 7793k   23 1819k    0    90   480k     23  0:00:16  0:00:03  0:00:13  484k 53 7793k   53 4197k    0    90   877k     18  0:00:08  0:00:04  0:00:04  882k 84 7793k   84 6571k    0    90  1135k     15  0:00:06  0:00:05  0:00:01 1381k100 7793k  100 7793k    0    90  1235k     14  0:00:06  0:00:06 --:--:-- 1822k
+[2017-09-19 17:18:40,993] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505812714 (com.JsonResolver)
+[2017-09-19 17:18:40,993] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505812714 (com.JsonResolver)
+[2017-09-19 17:18:40,993] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 17:25:37 CST 2017] sleep 600
+开始查询from:1505434789 to:1505435989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3479 --:--:-- --:--:-- --:--:--  3479  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  9 7794k    9  761k    0    90   574k     67  0:00:13  0:00:01  0:00:12  586k 40 7794k   40 3118k    0    90  1265k     36  0:00:06  0:00:02  0:00:04 1278k 71 7794k   71 5560k    0    90  1672k     27  0:00:04  0:00:03  0:00:01 1685k100 7794k  100 7794k    0    90  1827k     21  0:00:04  0:00:04 --:--:-- 1838k
+[2017-09-19 17:35:42,418] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505813737 (com.JsonResolver)
+[2017-09-19 17:35:42,418] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505813737 (com.JsonResolver)
+[2017-09-19 17:35:42,418] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 17:41:34 CST 2017] sleep 600
+开始查询from:1505435989 to:1505437189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3435 --:--:-- --:--:-- --:--:--  3435  0 7794k    0  1091    0    90   1255    103  1:45:59 --:--:--  1:45:59  1187 17 7794k   17 1375k    0    90  1075k     70  0:00:07  0:00:01  0:00:06 1097k 48 7794k   48 3745k    0    90  1643k     39  0:00:04  0:00:02  0:00:02 1662k 78 7794k   78 6122k    0    90  1867k     27  0:00:04  0:00:03  0:00:01 1881k100 7794k  100 7794k    0    90  1957k     22  0:00:03  0:00:03 --:--:-- 1969k
+[2017-09-19 17:51:39,180] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505814695 (com.JsonResolver)
+[2017-09-19 17:51:39,180] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505814695 (com.JsonResolver)
+[2017-09-19 17:51:39,180] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 17:57:23 CST 2017] sleep 600
+开始查询from:1505437189 to:1505438389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3407 --:--:-- --:--:-- --:--:--  3407  0 7795k    0  1091    0    90   1235    101  1:47:43 --:--:--  1:47:43  1168 32 7795k   32 2527k    0    90  1416k     50  0:00:05  0:00:01  0:00:04 1437k 63 7795k   63 4911k    0    90  1764k     32  0:00:04  0:00:02  0:00:02 1780k 93 7795k   93 7287k    0    90  1925k     23  0:00:04  0:00:03  0:00:01 1939k100 7795k  100 7795k    0    90  1949k     22  0:00:03  0:00:03 --:--:-- 1962k
+[2017-09-19 18:07:27,699] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505815643 (com.JsonResolver)
+[2017-09-19 18:07:27,699] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505815643 (com.JsonResolver)
+[2017-09-19 18:07:27,699] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 18:13:23 CST 2017] sleep 600
+开始查询from:1505438389 to:1505439589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3396 --:--:-- --:--:-- --:--:--  3396  0 7794k    0  1091    0    90   1453    119  1:31:33 --:--:--  1:31:33  1380 20 7794k   20 1615k    0    90  1278k     71  0:00:06  0:00:01  0:00:05 1305k 51 7794k   51 3982k    0    90  1759k     39  0:00:04  0:00:02  0:00:02 1780k 81 7794k   81 6356k    0    90  1948k     27  0:00:04  0:00:03  0:00:01 1963k100 7794k  100 7794k    0    90  2014k     23  0:00:03  0:00:03 --:--:-- 2027k
+[2017-09-19 18:23:27,078] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505816603 (com.JsonResolver)
+[2017-09-19 18:23:27,079] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505816603 (com.JsonResolver)
+[2017-09-19 18:23:27,079] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 18:30:08 CST 2017] sleep 600
+开始查询from:1505439589 to:1505440789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3010 --:--:-- --:--:-- --:--:--  3010  0 7794k    0  1091    0    90   1690    139  1:18:42 --:--:--  1:18:42  1625 34 7794k   34 2707k    0    90  1675k     55  0:00:04  0:00:01  0:00:03 1706k 65 7794k   65 5071k    0    90  1938k     34  0:00:04  0:00:02  0:00:02 1961k 95 7794k   95 7448k    0    90  2060k     24  0:00:03  0:00:03 --:--:-- 2077k100 7794k  100 7794k    0    90  2072k     23  0:00:03  0:00:03 --:--:-- 2089k
+[2017-09-19 18:40:12,632] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505817608 (com.JsonResolver)
+[2017-09-19 18:40:12,632] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505817608 (com.JsonResolver)
+[2017-09-19 18:40:12,632] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 18:47:25 CST 2017] sleep 600
+开始查询from:1505440789 to:1505441989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3414 --:--:-- --:--:-- --:--:--  3414  0 7794k    0  1091    0    90   2109    174  1:03:04 --:--:--  1:03:04  2038 26 7794k   26 2073k    0    90  1699k     73  0:00:04  0:00:01  0:00:03 1736k 57 7794k   57 4445k    0    90  2001k     40  0:00:03  0:00:02  0:00:01 2025k 87 7794k   87 6826k    0    90  2119k     27  0:00:03  0:00:03 --:--:-- 2137k100 7794k  100 7794k    0    90  2147k     24  0:00:03  0:00:03 --:--:-- 2163k
+[2017-09-19 18:57:28,891] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505818645 (com.JsonResolver)
+[2017-09-19 18:57:28,891] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505818645 (com.JsonResolver)
+[2017-09-19 18:57:28,891] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 19:03:12 CST 2017] sleep 600
+开始查询from:1505441989 to:1505443189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3201 --:--:-- --:--:-- --:--:--  3201  0 7795k    0  1091    0    90   1611    132  1:22:35 --:--:--  1:22:35  1542 19 7795k   19 1516k    0    90  1332k     79  0:00:05  0:00:01  0:00:04 1366k 49 7795k   49 3896k    0    90  1822k     42  0:00:04  0:00:02  0:00:02 1846k 80 7795k   80 6253k    0    90  1993k     28  0:00:03  0:00:03 --:--:-- 2010k100 7795k  100 7795k    0    90  2059k     23  0:00:03  0:00:03 --:--:-- 2074k
+[2017-09-19 19:13:16,127] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505819592 (com.JsonResolver)
+[2017-09-19 19:13:16,127] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505819592 (com.JsonResolver)
+[2017-09-19 19:13:16,127] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 19:18:51 CST 2017] sleep 600
+开始查询from:1505443189 to:1505444389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3516 --:--:-- --:--:-- --:--:--  3516  0 7795k    0 23839    0    90  31078    117  0:04:16 --:--:--  0:04:16 32006 36 7795k   36 2827k    0    90  1600k     50  0:00:04  0:00:01  0:00:03 1623k 65 7795k   65 5096k    0    90  1789k     31  0:00:04  0:00:02  0:00:02 1805k 97 7795k   97 7565k    0    90  2008k     23  0:00:03  0:00:03 --:--:-- 2021k100 7795k  100 7795k    0    90  2017k     23  0:00:03  0:00:03 --:--:-- 2030k
+[2017-09-19 19:28:55,574] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505820531 (com.JsonResolver)
+[2017-09-19 19:28:55,574] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505820531 (com.JsonResolver)
+[2017-09-19 19:28:55,574] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 19:35:46 CST 2017] sleep 600
+开始查询from:1505444389 to:1505445589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3416 --:--:-- --:--:-- --:--:--  3416  0 7795k    0  1091    0    90   1670    137  1:19:39 --:--:--  1:19:39  1596 33 7795k   33 2581k    0    90  1638k     57  0:00:04  0:00:01  0:00:03 1665k 60 7795k   60 4678k    0    90  1807k     34  0:00:04  0:00:02  0:00:02 1825k 93 7795k   93 7314k    0    90  2045k     25  0:00:03  0:00:03 --:--:-- 2060k100 7795k  100 7795k    0    90  2063k     23  0:00:03  0:00:03 --:--:-- 2077k
+[2017-09-19 19:45:50,701] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505821546 (com.JsonResolver)
+[2017-09-19 19:45:50,701] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505821546 (com.JsonResolver)
+[2017-09-19 19:45:50,702] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 19:51:18 CST 2017] sleep 600
+开始查询from:1505445589 to:1505446789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3247 --:--:-- --:--:-- --:--:--  3247 14 7794k   14 1127k    0    90  1098k     87  0:00:07  0:00:01  0:00:06 1128k 44 7794k   44 3448k    0    90  1584k     41  0:00:04  0:00:02  0:00:02 1605k 75 7794k   75 5871k    0    90  1940k     29  0:00:04  0:00:03  0:00:01 1957k100 7794k  100 7794k    0    90  2032k     23  0:00:03  0:00:03 --:--:-- 2047k
+[2017-09-19 20:01:22,290] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505822478 (com.JsonResolver)
+[2017-09-19 20:01:22,291] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505822478 (com.JsonResolver)
+[2017-09-19 20:01:22,291] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 20:07:32 CST 2017] sleep 600
+开始查询from:1505446789 to:1505447989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3132 --:--:-- --:--:-- --:--:--  3132  0 7794k    0  1091    0    90   1484    122  1:29:38 --:--:--  1:29:38  1415 34 7794k   34 2722k    0    90  1582k     52  0:00:04  0:00:01  0:00:03 1609k 65 7794k   65 5068k    0    90  1863k     33  0:00:04  0:00:02  0:00:02 1882k 95 7794k   95 7445k    0    90  2001k     24  0:00:03  0:00:03 --:--:-- 2016k100 7794k  100 7794k    0    90  2015k     23  0:00:03  0:00:03 --:--:-- 2030k
+[2017-09-19 20:17:36,626] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505823452 (com.JsonResolver)
+[2017-09-19 20:17:36,626] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505823452 (com.JsonResolver)
+[2017-09-19 20:17:36,626] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 20:23:35 CST 2017] sleep 600
+开始查询from:1505447989 to:1505449189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3776 --:--:-- --:--:-- --:--:--  3776  0 7795k    0  1091    0    90   1594    131  1:23:27 --:--:--  1:23:27  1514 34 7795k   34 2695k    0    90  1639k     54  0:00:04  0:00:01  0:00:03 1663k 64 7795k   64 5064k    0    90  1914k     34  0:00:04  0:00:02  0:00:02 1932k 95 7795k   95 7432k    0    90  2039k     24  0:00:03  0:00:03 --:--:-- 2052k100 7795k  100 7795k    0    90  2053k     23  0:00:03  0:00:03 --:--:-- 2065k
+[2017-09-19 20:33:39,634] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505824415 (com.JsonResolver)
+[2017-09-19 20:33:39,635] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505824415 (com.JsonResolver)
+[2017-09-19 20:33:39,635] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 20:40:52 CST 2017] sleep 600
+开始查询from:1505449189 to:1505450389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3468 --:--:-- --:--:-- --:--:--  3468  0 7794k    0  1091    0    90   1437    118  1:32:34 --:--:--  1:32:34  1365 30 7794k   30 2398k    0    90  1502k     56  0:00:05  0:00:01  0:00:04 1526k 61 7794k   61 4758k    0    90  1832k     34  0:00:04  0:00:02  0:00:02 1850k 91 7794k   91 7120k    0    90  1979k     25  0:00:03  0:00:03 --:--:-- 1993k100 7794k  100 7794k    0    90  2009k     23  0:00:03  0:00:03 --:--:-- 2022k
+[2017-09-19 20:50:56,778] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505825452 (com.JsonResolver)
+[2017-09-19 20:50:56,779] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505825452 (com.JsonResolver)
+[2017-09-19 20:50:56,779] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 20:57:30 CST 2017] sleep 600
+开始查询from:1505450389 to:1505451589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2889 --:--:-- --:--:-- --:--:--  2889  0 7794k    0  1091    0    90   1575    129  1:24:27 --:--:--  1:24:27  1512 27 7794k   27 2154k    0    90  1507k     62  0:00:05  0:00:01  0:00:04 1540k 58 7794k   58 4522k    0    90  1861k     37  0:00:04  0:00:02  0:00:02 1886k 88 7794k   88 6902k    0    90  2012k     26  0:00:03  0:00:03 --:--:-- 2030k100 7794k  100 7794k    0    90  2044k     23  0:00:03  0:00:03 --:--:-- 2060k
+[2017-09-19 21:07:34,864] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505826450 (com.JsonResolver)
+[2017-09-19 21:07:34,864] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505826450 (com.JsonResolver)
+[2017-09-19 21:07:34,864] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 21:14:07 CST 2017] sleep 600
+开始查询from:1505451589 to:1505452789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3390 --:--:-- --:--:-- --:--:--  3390 14 7795k   14 1112k    0    90  1147k     92  0:00:06 --:--:--  0:00:06 1179k 44 7795k   44 3483k    0    90  1768k     45  0:00:04  0:00:01  0:00:03 1792k 75 7795k   75 5854k    0    90  1971k     30  0:00:03  0:00:02  0:00:01 1988k100 7795k  100 7795k    0    90  2051k     23  0:00:03  0:00:03 --:--:-- 2066k
+[2017-09-19 21:24:11,313] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505827447 (com.JsonResolver)
+[2017-09-19 21:24:11,313] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505827447 (com.JsonResolver)
+[2017-09-19 21:24:11,313] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 21:30:35 CST 2017] sleep 600
+开始查询from:1505452789 to:1505453989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3002 --:--:-- --:--:-- --:--:--  3002  0 7795k    0  1091    0    90   1448    119  1:31:52 --:--:--  1:31:52  1382 20 7795k   20 1628k    0    90  1289k     71  0:00:06  0:00:01  0:00:05 1320k 51 7795k   51 4001k    0    90  1768k     39  0:00:04  0:00:02  0:00:02 1791k 81 7795k   81 6366k    0    90  1951k     27  0:00:03  0:00:03 --:--:-- 1969k100 7795k  100 7795k    0    90  2014k     23  0:00:03  0:00:03 --:--:-- 2029k
+[2017-09-19 21:40:39,086] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505828435 (com.JsonResolver)
+[2017-09-19 21:40:39,086] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505828435 (com.JsonResolver)
+[2017-09-19 21:40:39,086] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 21:45:59 CST 2017] sleep 600
+开始查询from:1505453989 to:1505455189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3692 --:--:-- --:--:-- --:--:--  3692  0 7795k    0 23839    0    90  33436    126  0:03:58 --:--:--  0:03:58 34468 36 7795k   36 2844k    0    90  1660k     52  0:00:04  0:00:01  0:00:03 1683k 66 7795k   66 5208k    0    90  1919k     33  0:00:04  0:00:02  0:00:02 1936k 97 7795k   97 7585k    0    90  2043k     24  0:00:03  0:00:03 --:--:-- 2056k100 7795k  100 7795k    0    90  2050k     23  0:00:03  0:00:03 --:--:-- 2063k
+[2017-09-19 21:56:03,572] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505829359 (com.JsonResolver)
+[2017-09-19 21:56:03,572] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505829359 (com.JsonResolver)
+[2017-09-19 21:56:03,573] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 22:02:59 CST 2017] sleep 600
+开始查询from:1505455189 to:1505456389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3523 --:--:-- --:--:-- --:--:--  3523  0 7795k    0  1091    0    90   1375    113  1:36:45 --:--:--  1:36:45  1303 34 7795k   34 2695k    0    90  1533k     51  0:00:05  0:00:01  0:00:04 1555k 65 7795k   65 5067k    0    90  1837k     32  0:00:04  0:00:02  0:00:02 1854k 95 7795k   95 7431k    0    90  1977k     23  0:00:03  0:00:03 --:--:-- 1991k100 7795k  100 7795k    0    90  1993k     23  0:00:03  0:00:03 --:--:-- 2005k
+[2017-09-19 22:13:03,625] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505830379 (com.JsonResolver)
+[2017-09-19 22:13:03,626] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505830379 (com.JsonResolver)
+[2017-09-19 22:13:03,626] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 22:19:30 CST 2017] sleep 600
+开始查询from:1505456389 to:1505457589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3412 --:--:-- --:--:-- --:--:--  3412  0 7795k    0  1091    0    90   1427    117  1:33:13 --:--:--  1:33:13  1354 24 7795k   24 1906k    0    90  1363k     64  0:00:05  0:00:01  0:00:04 1389k 54 7795k   54 4282k    0    90  1785k     37  0:00:04  0:00:02  0:00:02 1805k 85 7795k   85 6649k    0    90  1956k     26  0:00:03  0:00:03 --:--:-- 1971k100 7795k  100 7795k    0    90  2002k     23  0:00:03  0:00:03 --:--:-- 2015k
+[2017-09-19 22:29:34,974] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505831370 (com.JsonResolver)
+[2017-09-19 22:29:34,974] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505831370 (com.JsonResolver)
+[2017-09-19 22:29:34,974] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 22:36:36 CST 2017] sleep 600
+开始查询from:1505457589 to:1505458789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3522 --:--:-- --:--:-- --:--:--  3522  0 7795k    0  1091    0    90   1713    141  1:17:39 --:--:--  1:17:39  1638 22 7795k   22 1779k    0    90  1462k     73  0:00:05  0:00:01  0:00:04 1494k 53 7795k   53 4146k    0    90  1870k     40  0:00:04  0:00:02  0:00:02 1892k 83 7795k   83 6510k    0    90  2024k     27  0:00:03  0:00:03 --:--:-- 2040k100 7795k  100 7795k    0    90  2073k     23  0:00:03  0:00:03 --:--:-- 2087k
+[2017-09-19 22:46:40,021] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505832396 (com.JsonResolver)
+[2017-09-19 22:46:40,022] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505832396 (com.JsonResolver)
+[2017-09-19 22:46:40,022] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 22:53:17 CST 2017] sleep 600
+开始查询from:1505458789 to:1505459989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3521 --:--:-- --:--:-- --:--:--  3521  0 7795k    0  1091    0    90   1550    127  1:25:50 --:--:--  1:25:50  1474 16 7795k   16 1324k    0    90  1197k     81  0:00:06  0:00:01  0:00:05 1224k 47 7795k   47 3687k    0    90  1750k     42  0:00:04  0:00:02  0:00:02 1771k 77 7795k   77 6047k    0    90  1946k     28  0:00:04  0:00:03  0:00:01 1962k100 7795k  100 7795k    0    90  2027k     23  0:00:03  0:00:03 --:--:-- 2040k
+[2017-09-19 23:03:21,221] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505833397 (com.JsonResolver)
+[2017-09-19 23:03:21,222] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505833397 (com.JsonResolver)
+[2017-09-19 23:03:21,222] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 23:10:22 CST 2017] sleep 600
+开始查询from:1505459989 to:1505461189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3360 --:--:-- --:--:-- --:--:--  3360  0 7795k    0 44111    0    90  61578    125  0:02:09 --:--:--  0:02:09 63798 34 7795k   34 2690k    0    90  1491k     49  0:00:05  0:00:01  0:00:04 1513k 66 7795k   66 5208k    0    90  1932k     33  0:00:04  0:00:02  0:00:02 1950k 97 7795k   97 7567k    0    90  2047k     24  0:00:03  0:00:03 --:--:-- 2062k100 7795k  100 7795k    0    90  2056k     23  0:00:03  0:00:03 --:--:-- 2070k
+[2017-09-19 23:20:26,575] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505834422 (com.JsonResolver)
+[2017-09-19 23:20:26,576] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505834422 (com.JsonResolver)
+[2017-09-19 23:20:26,576] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 23:26:53 CST 2017] sleep 600
+开始查询from:1505461189 to:1505462389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3850 --:--:-- --:--:-- --:--:--  3850  0 7795k    0  1091    0    90   1393    114  1:35:30 --:--:--  1:35:30  1317 31 7795k   31 2463k    0    90  1496k     54  0:00:05  0:00:01  0:00:04 1518k 61 7795k   61 4824k    0    90  1822k     34  0:00:04  0:00:02  0:00:02 1838k 92 7795k   92 7195k    0    90  1973k     24  0:00:03  0:00:03 --:--:-- 1985k100 7795k  100 7795k    0    90  1998k     23  0:00:03  0:00:03 --:--:-- 2009k
+[2017-09-19 23:36:57,748] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505835413 (com.JsonResolver)
+[2017-09-19 23:36:57,748] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505835413 (com.JsonResolver)
+[2017-09-19 23:36:57,748] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 23:43:36 CST 2017] sleep 600
+开始查询from:1505462389 to:1505463589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2908 --:--:-- --:--:-- --:--:--  2908  0 7795k    0  1091    0    90   1738    143  1:16:32 --:--:--  1:16:32  1676 33 7795k   33 2632k    0    90  1687k     57  0:00:04  0:00:01  0:00:03 1720k 64 7795k   64 5002k    0    90  1954k     35  0:00:03  0:00:02  0:00:01 1977k 94 7795k   94 7369k    0    90  2070k     25  0:00:03  0:00:03 --:--:-- 2088k100 7795k  100 7795k    0    90  2082k     24  0:00:03  0:00:03 --:--:-- 2099k
+[2017-09-19 23:53:40,664] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505836416 (com.JsonResolver)
+[2017-09-19 23:53:40,664] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505836416 (com.JsonResolver)
+[2017-09-19 23:53:40,664] INFO type:rtmp_publish (com.JsonResolver)
+[Tue Sep 19 23:59:33 CST 2017] sleep 600
+开始查询from:1505463589 to:1505464789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3052 --:--:-- --:--:-- --:--:--  3052  1 7794k    1   99k    0    90   127k    115  0:01:01 --:--:--  0:01:01  132k 36 7794k   36 2876k    0    90  1630k     51  0:00:04  0:00:01  0:00:03 1657k 67 7794k   67 5251k    0    90  1899k     32  0:00:04  0:00:02  0:00:02 1919k 97 7794k   97 7619k    0    90  2024k     23  0:00:03  0:00:03 --:--:-- 2040k100 7794k  100 7794k    0    90  2031k     23  0:00:03  0:00:03 --:--:-- 2046k
+[2017-09-20 00:09:37,561] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505837373 (com.JsonResolver)
+[2017-09-20 00:09:37,562] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505837373 (com.JsonResolver)
+[2017-09-20 00:09:37,562] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 00:16:42 CST 2017] sleep 600
+开始查询from:1505464789 to:1505465989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3520 --:--:-- --:--:-- --:--:--  3520  0 7795k    0  1091    0    90   1388    114  1:35:50 --:--:--  1:35:50  1315 23 7795k   23 1850k    0    90  1328k     64  0:00:05  0:00:01  0:00:04 1352k 54 7795k   54 4213k    0    90  1760k     37  0:00:04  0:00:02  0:00:02 1779k 84 7795k   84 6587k    0    90  1941k     26  0:00:04  0:00:03  0:00:01 1955k100 7795k  100 7795k    0    90  1991k     22  0:00:03  0:00:03 --:--:-- 2004k
+[2017-09-20 00:26:46,995] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505838402 (com.JsonResolver)
+[2017-09-20 00:26:46,995] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505838402 (com.JsonResolver)
+[2017-09-20 00:26:46,995] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 00:33:36 CST 2017] sleep 600
+开始查询from:1505465989 to:1505467189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0    708 --:--:-- --:--:-- --:--:--   708  0 7795k    0  1091    0    90   1208     99  1:50:07 --:--:--  1:50:07  1289 12 7795k   12  984k    0    90   515k     47  0:00:15  0:00:01  0:00:14  551k 47 7795k   47 3699k    0    90  1295k     31  0:00:06  0:00:02  0:00:04 1355k 77 7795k   77 6074k    0    90  1575k     23  0:00:04  0:00:03  0:00:01 1628k100 7795k  100 7795k    0    90  1690k     19  0:00:04  0:00:04 --:--:-- 1738k
+[2017-09-20 00:43:41,234] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505839416 (com.JsonResolver)
+[2017-09-20 00:43:41,235] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505839416 (com.JsonResolver)
+[2017-09-20 00:43:41,235] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 00:49:10 CST 2017] sleep 600
+开始查询from:1505467189 to:1505468389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3410 --:--:-- --:--:-- --:--:--  3410  0 7795k    0  1091    0    90   1512    124  1:27:59 --:--:--  1:27:59  1438 23 7795k   23 1855k    0    90  1392k     67  0:00:05  0:00:01  0:00:04 1419k 54 7795k   54 4224k    0    90  1810k     38  0:00:04  0:00:02  0:00:02 1831k 84 7795k   84 6584k    0    90  1975k     27  0:00:03  0:00:03 --:--:-- 1991k100 7795k  100 7795k    0    90  2028k     23  0:00:03  0:00:03 --:--:-- 2041k
+[2017-09-20 00:59:14,986] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505840350 (com.JsonResolver)
+[2017-09-20 00:59:14,987] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505840350 (com.JsonResolver)
+[2017-09-20 00:59:14,987] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 01:05:19 CST 2017] sleep 600
+开始查询from:1505468389 to:1505469589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2748 --:--:-- --:--:-- --:--:--  2748  0 7794k    0  1091    0    90   1427    117  1:33:13 --:--:--  1:33:13  1367 35 7794k   35 2734k    0    90  1564k     51  0:00:04  0:00:01  0:00:03 1594k 65 7794k   65 5106k    0    90  1858k     32  0:00:04  0:00:02  0:00:02 1880k 95 7794k   95 7448k    0    90  1987k     24  0:00:03  0:00:03 --:--:-- 2004k100 7794k  100 7794k    0    90  2002k     23  0:00:03  0:00:03 --:--:-- 2018k
+[2017-09-20 01:15:23,623] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505841319 (com.JsonResolver)
+[2017-09-20 01:15:23,624] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505841319 (com.JsonResolver)
+[2017-09-20 01:15:23,624] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 01:21:46 CST 2017] sleep 600
+开始查询from:1505469589 to:1505470789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2674 --:--:-- --:--:-- --:--:--  2674  0 7793k    0  1091    0    90   1599    131  1:23:11 --:--:--  1:23:11  1542 28 7793k   28 2230k    0    90  1517k     61  0:00:05  0:00:01  0:00:04 1552k 58 7793k   58 4597k    0    90  1861k     36  0:00:04  0:00:02  0:00:02 1887k 89 7793k   89 6955k    0    90  2004k     25  0:00:03  0:00:03 --:--:-- 2024k100 7793k  100 7793k    0    90  2038k     23  0:00:03  0:00:03 --:--:-- 2055k
+[2017-09-20 01:31:50,869] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505842306 (com.JsonResolver)
+[2017-09-20 01:31:50,869] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505842306 (com.JsonResolver)
+[2017-09-20 01:31:50,869] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 01:37:34 CST 2017] sleep 600
+开始查询from:1505470789 to:1505471989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3441 --:--:-- --:--:-- --:--:--  3441 12 7793k   12  982k    0    90  1051k     96  0:00:07 --:--:--  0:00:07 1081k 42 7793k   42 3320k    0    90  1592k     43  0:00:04  0:00:02  0:00:02 1612k 73 7793k   73 5740k    0    90  1956k     30  0:00:03  0:00:02  0:00:01 1973k100 7793k  100 7793k    0    90  2045k     23  0:00:03  0:00:03 --:--:-- 2059k
+[2017-09-20 01:47:38,354] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505843254 (com.JsonResolver)
+[2017-09-20 01:47:38,355] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505843254 (com.JsonResolver)
+[2017-09-20 01:47:38,355] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 01:53:48 CST 2017] sleep 600
+开始查询from:1505471989 to:1505473189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3204 --:--:-- --:--:-- --:--:--  3204  0 7792k    0  1091    0    90   1498    123  1:28:46 --:--:--  1:28:46  1427 31 7792k   31 2415k    0    90  1533k     57  0:00:05  0:00:01  0:00:04 1561k 61 7792k   61 4791k    0    90  1860k     34  0:00:04  0:00:02  0:00:02 1881k 92 7792k   92 7171k    0    90  2006k     25  0:00:03  0:00:03 --:--:-- 2021k100 7792k  100 7792k    0    90  2028k     23  0:00:03  0:00:03 --:--:-- 2042k
+[2017-09-20 02:03:52,745] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505844228 (com.JsonResolver)
+[2017-09-20 02:03:52,746] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505844228 (com.JsonResolver)
+[2017-09-20 02:03:52,746] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 02:10:21 CST 2017] sleep 600
+开始查询from:1505473189 to:1505474389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3452 --:--:-- --:--:-- --:--:--  3452  0 7792k    0  1091    0    90   1664    137  1:19:55 --:--:--  1:19:55  1588 17 7792k   17 1375k    0    90  1289k     84  0:00:06  0:00:01  0:00:05 1320k 47 7792k   47 3722k    0    90  1801k     43  0:00:04  0:00:02  0:00:02 1823k 78 7792k   78 6105k    0    90  1991k     29  0:00:03  0:00:03 --:--:-- 2007k100 7792k  100 7792k    0    90  2060k     23  0:00:03  0:00:03 --:--:-- 2074k
+[2017-09-20 02:20:25,186] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505845221 (com.JsonResolver)
+[2017-09-20 02:20:25,187] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505845221 (com.JsonResolver)
+[2017-09-20 02:20:25,187] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 02:26:27 CST 2017] sleep 600
+开始查询from:1505474389 to:1505475589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3515 --:--:-- --:--:-- --:--:--  3515  0 7792k    0  1091    0    90   1603    132  1:22:58 --:--:--  1:22:58  1528 22 7792k   22 1782k    0    90  1414k     71  0:00:05  0:00:01  0:00:04 1443k 52 7792k   52 4116k    0    90  1821k     39  0:00:04  0:00:02  0:00:02 1842k 83 7792k   83 6486k    0    90  1990k     27  0:00:03  0:00:03 --:--:-- 2005k100 7792k  100 7792k    0    90  2045k     23  0:00:03  0:00:03 --:--:-- 2058k
+[2017-09-20 02:36:31,031] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505846187 (com.JsonResolver)
+[2017-09-20 02:36:31,031] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505846187 (com.JsonResolver)
+[2017-09-20 02:36:31,031] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 02:41:43 CST 2017] sleep 600
+开始查询from:1505475589 to:1505476789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3902 --:--:-- --:--:-- --:--:--  3902  0 7791k    0  1091    0    90   1467    121  1:30:38 --:--:--  1:30:38  1388 18 7791k   18 1410k    0    90  1216k     77  0:00:06  0:00:01  0:00:05 1240k 44 7791k   44 3429k    0    90  1586k     41  0:00:04  0:00:02  0:00:02 1603k 78 7791k   78 6154k    0    90  1948k     28  0:00:03  0:00:03 --:--:-- 1961k100 7791k  100 7791k    0    90  2016k     23  0:00:03  0:00:03 --:--:-- 2028k
+[2017-09-20 02:51:47,181] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505847103 (com.JsonResolver)
+[2017-09-20 02:51:47,181] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505847103 (com.JsonResolver)
+[2017-09-20 02:51:47,181] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 02:59:08 CST 2017] sleep 600
+开始查询from:1505476789 to:1505477989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3440 --:--:-- --:--:-- --:--:--  3440  0 7791k    0  1091    0    90   1488    122  1:29:22 --:--:--  1:29:22  1415 30 7791k   30 2408k    0    90  1525k     56  0:00:05  0:00:01  0:00:04 1551k 56 7791k   56 4391k    0    90  1690k     34  0:00:04  0:00:02  0:00:02 1707k 91 7791k   91 7127k    0    90  1991k     25  0:00:03  0:00:03 --:--:-- 2006k100 7791k  100 7791k    0    90  2018k     23  0:00:03  0:00:03 --:--:-- 2031k
+[2017-09-20 03:09:12,749] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505848148 (com.JsonResolver)
+[2017-09-20 03:09:12,749] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505848148 (com.JsonResolver)
+[2017-09-20 03:09:12,749] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 03:15:49 CST 2017] sleep 600
+开始查询from:1505477989 to:1505479189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3438 --:--:-- --:--:-- --:--:--  3438  0 7791k    0  1091    0    90   1561    128  1:25:11 --:--:--  1:25:11  1487 26 7791k   26 2043k    0    90  1470k     64  0:00:05  0:00:01  0:00:04 1498k 56 7791k   56 4426k    0    90  1852k     37  0:00:04  0:00:02  0:00:02 1872k 86 7791k   86 6772k    0    90  1998k     26  0:00:03  0:00:03 --:--:-- 2013k100 7791k  100 7791k    0    90  2041k     23  0:00:03  0:00:03 --:--:-- 2054k
+[2017-09-20 03:25:53,906] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505849149 (com.JsonResolver)
+[2017-09-20 03:25:53,906] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505849149 (com.JsonResolver)
+[2017-09-20 03:25:53,907] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 03:32:07 CST 2017] sleep 600
+开始查询from:1505479189 to:1505480389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3412 --:--:-- --:--:-- --:--:--  3412  0 7791k    0  1091    0    90   1810    149  1:13:27 --:--:--  1:13:27  1734 28 7791k   28 2250k    0    90  1630k     65  0:00:04  0:00:01  0:00:03 1660k 59 7791k   59 4630k    0    90  1944k     37  0:00:04  0:00:02  0:00:02 1966k 89 7791k   89 6963k    0    90  2060k     26  0:00:03  0:00:03 --:--:-- 2076k100 7791k  100 7791k    0    90  2089k     24  0:00:03  0:00:03 --:--:-- 2104k
+[2017-09-20 03:42:11,823] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505850127 (com.JsonResolver)
+[2017-09-20 03:42:11,824] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505850127 (com.JsonResolver)
+[2017-09-20 03:42:11,824] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 03:48:44 CST 2017] sleep 600
+开始查询from:1505480389 to:1505481589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3484 --:--:-- --:--:-- --:--:--  3484  0 7791k    0  1091    0    90   1380    113  1:36:21 --:--:--  1:36:21  1308 22 7791k   22 1776k    0    90  1299k     65  0:00:05  0:00:01  0:00:04 1323k 52 7791k   52 4116k    0    90  1739k     38  0:00:04  0:00:02  0:00:02 1757k 83 7791k   83 6492k    0    90  1928k     26  0:00:04  0:00:03  0:00:01 1943k100 7791k  100 7791k    0    90  1990k     22  0:00:03  0:00:03 --:--:-- 2002k
+[2017-09-20 03:58:49,024] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505851124 (com.JsonResolver)
+[2017-09-20 03:58:49,025] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505851124 (com.JsonResolver)
+[2017-09-20 03:58:49,025] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 04:05:24 CST 2017] sleep 600
+开始查询from:1505481589 to:1505482789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3554 --:--:-- --:--:-- --:--:--  3554  0 7791k    0  1091    0    90   1553    128  1:25:37 --:--:--  1:25:37  1478 22 7791k   22 1769k    0    90  1385k     70  0:00:05  0:00:01  0:00:04 1413k 53 7791k   53 4141k    0    90  1818k     39  0:00:04  0:00:02  0:00:02 1838k 83 7791k   83 6522k    0    90  1990k     27  0:00:03  0:00:03 --:--:-- 2005k100 7791k  100 7791k    0    90  2036k     23  0:00:03  0:00:03 --:--:-- 2049k
+[2017-09-20 04:15:29,031] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505852124 (com.JsonResolver)
+[2017-09-20 04:15:29,032] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505852124 (com.JsonResolver)
+[2017-09-20 04:15:29,032] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 04:20:59 CST 2017] sleep 600
+开始查询from:1505482789 to:1505483989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3548 --:--:-- --:--:-- --:--:--  3548  0 7790k    0  1091    0    90   1687    139  1:18:48 --:--:--  1:18:48  1609 34 7790k   34 2694k    0    90  1670k     55  0:00:04  0:00:01  0:00:03 1696k 64 7790k   64 5058k    0    90  1936k     34  0:00:04  0:00:02  0:00:02 1954k 95 7790k   95 7428k    0    90  2056k     24  0:00:03  0:00:03 --:--:-- 2070k100 7790k  100 7790k    0    90  2069k     23  0:00:03  0:00:03 --:--:-- 2082k
+[2017-09-20 04:31:03,651] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505853059 (com.JsonResolver)
+[2017-09-20 04:31:03,652] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505853059 (com.JsonResolver)
+[2017-09-20 04:31:03,652] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 04:37:49 CST 2017] sleep 600
+开始查询from:1505483989 to:1505485189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3398 --:--:-- --:--:-- --:--:--  3398  0 7789k    0  1091    0    90   1880    155  1:10:42 --:--:--  1:10:42  1806 24 7789k   24 1929k    0    90  1575k     73  0:00:04  0:00:01  0:00:03 1610k 55 7789k   55 4305k    0    90  1935k     40  0:00:04  0:00:02  0:00:02 1958k 85 7789k   85 6672k    0    90  2069k     27  0:00:03  0:00:03 --:--:-- 2086k100 7789k  100 7789k    0    90  2102k     24  0:00:03  0:00:03 --:--:-- 2116k
+[2017-09-20 04:47:52,963] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505854069 (com.JsonResolver)
+[2017-09-20 04:47:52,964] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505854069 (com.JsonResolver)
+[2017-09-20 04:47:52,964] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 04:54:36 CST 2017] sleep 600
+开始查询from:1505485189 to:1505486389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3542 --:--:-- --:--:-- --:--:--  3542 14 7790k   14 1144k    0    90  1285k    101  0:00:06 --:--:--  0:00:06 1321k 40 7790k   40 3187k    0    90  1686k     47  0:00:04  0:00:01  0:00:03 1709k 75 7790k   75 5880k    0    90  2034k     31  0:00:03  0:00:02  0:00:01 2052k100 7790k  100 7790k    0    90  2108k     24  0:00:03  0:00:03 --:--:-- 2123k
+[2017-09-20 05:04:40,282] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505855076 (com.JsonResolver)
+[2017-09-20 05:04:40,283] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505855076 (com.JsonResolver)
+[2017-09-20 05:04:40,283] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 05:12:09 CST 2017] sleep 600
+开始查询from:1505486389 to:1505487589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3405 --:--:-- --:--:-- --:--:--  3405  0 7788k    0  1091    0    90   1618    133  1:22:08 --:--:--  1:22:08  1544 18 7788k   18 1468k    0    90  1307k     80  0:00:05  0:00:01  0:00:04 1337k 48 7788k   48 3814k    0    90  1796k     42  0:00:04  0:00:02  0:00:02 1818k 79 7788k   79 6190k    0    90  1982k     28  0:00:03  0:00:03 --:--:-- 1998k100 7788k  100 7788k    0    90  2048k     23  0:00:03  0:00:03 --:--:-- 2063k
+[2017-09-20 05:22:13,160] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505856129 (com.JsonResolver)
+[2017-09-20 05:22:13,161] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505856129 (com.JsonResolver)
+[2017-09-20 05:22:13,161] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 05:28:42 CST 2017] sleep 600
+开始查询from:1505487589 to:1505488789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3468 --:--:-- --:--:-- --:--:--  3468 11 7787k   11  911k    0    90  1064k    105  0:00:07 --:--:--  0:00:07 1096k 39 7787k   39 3110k    0    90  1590k     46  0:00:04  0:00:01  0:00:03 1611k 72 7787k   72 5644k    0    90  1976k     31  0:00:03  0:00:02  0:00:01 1993k100 7787k  100 7787k    0    90  2070k     23  0:00:03  0:00:03 --:--:-- 2085k
+[2017-09-20 05:38:46,383] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505857122 (com.JsonResolver)
+[2017-09-20 05:38:46,383] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505857122 (com.JsonResolver)
+[2017-09-20 05:38:46,383] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 05:45:47 CST 2017] sleep 600
+开始查询from:1505488789 to:1505489989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2972 --:--:-- --:--:-- --:--:--  2972  0 7787k    0  1091    0    90   1160     95  1:54:34 --:--:--  1:54:34  1100 17 7787k   17 1338k    0    90   998k     67  0:00:07  0:00:01  0:00:06 1021k 47 7787k   47 3691k    0    90  1577k     38  0:00:04  0:00:02  0:00:02 1597k 77 7787k   77 6068k    0    90  1816k     26  0:00:04  0:00:03  0:00:01 1833k100 7787k  100 7787k    0    90  1917k     22  0:00:04  0:00:04 --:--:-- 1931k
+[2017-09-20 05:55:52,207] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505858147 (com.JsonResolver)
+[2017-09-20 05:55:52,207] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505858147 (com.JsonResolver)
+[2017-09-20 05:55:52,207] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 06:03:08 CST 2017] sleep 600
+开始查询from:1505489989 to:1505491189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3505 --:--:-- --:--:-- --:--:--  3505  0 7786k    0  1091    0    90   1724    142  1:17:05 --:--:--  1:17:05  1646 24 7786k   24 1896k    0    90  1505k     71  0:00:05  0:00:01  0:00:04 1535k 54 7786k   54 4271k    0    90  1889k     39  0:00:04  0:00:02  0:00:02 1910k 84 7786k   84 6609k    0    90  2027k     27  0:00:03  0:00:03 --:--:-- 2043k100 7786k  100 7786k    0    90  2073k     23  0:00:03  0:00:03 --:--:-- 2087k
+[2017-09-20 06:13:11,974] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505859188 (com.JsonResolver)
+[2017-09-20 06:13:11,975] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505859188 (com.JsonResolver)
+[2017-09-20 06:13:11,975] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 06:19:22 CST 2017] sleep 600
+开始查询from:1505491189 to:1505492389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3390 --:--:-- --:--:-- --:--:--  3390  0 7786k    0  1091    0    90   1515    125  1:27:42 --:--:--  1:27:42  1442 16 7786k   16 1317k    0    90  1200k     82  0:00:06  0:00:01  0:00:05 1229k 44 7786k   44 3433k    0    90  1636k     42  0:00:04  0:00:02  0:00:02 1656k 77 7786k   77 6064k    0    90  1957k     29  0:00:03  0:00:03 --:--:-- 1974k100 7786k  100 7786k    0    90  2032k     23  0:00:03  0:00:03 --:--:-- 2046k
+[2017-09-20 06:29:26,213] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505860162 (com.JsonResolver)
+[2017-09-20 06:29:26,213] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505860162 (com.JsonResolver)
+[2017-09-20 06:29:26,213] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 06:35:29 CST 2017] sleep 600
+开始查询from:1505492389 to:1505493589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3456 --:--:-- --:--:-- --:--:--  3456  0 7785k    0  1091    0    90   1773    146  1:14:56 --:--:--  1:14:56  1696 34 7785k   34 2671k    0    90  1704k     57  0:00:04  0:00:01  0:00:03 1732k 64 7785k   64 5030k    0    90  1959k     35  0:00:03  0:00:02  0:00:01 1978k 95 7785k   95 7406k    0    90  2075k     25  0:00:03  0:00:03 --:--:-- 2090k100 7785k  100 7785k    0    90  2088k     24  0:00:03  0:00:03 --:--:-- 2103k
+[2017-09-20 06:45:33,640] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505861129 (com.JsonResolver)
+[2017-09-20 06:45:33,641] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505861129 (com.JsonResolver)
+[2017-09-20 06:45:33,641] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 06:52:37 CST 2017] sleep 600
+开始查询from:1505493589 to:1505494789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3820 --:--:-- --:--:-- --:--:--  3820 12 7785k   12  956k    0    90   994k     93  0:00:07 --:--:--  0:00:07 1018k 44 7785k   44 3463k    0    90  1765k     45  0:00:04  0:00:01  0:00:03 1786k 74 7785k   74 5833k    0    90  1969k     30  0:00:03  0:00:02  0:00:01 1984k100 7785k  100 7785k    0    90  2052k     23  0:00:03  0:00:03 --:--:-- 2065k
+[2017-09-20 07:02:41,315] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505862157 (com.JsonResolver)
+[2017-09-20 07:02:41,319] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505862157 (com.JsonResolver)
+[2017-09-20 07:02:41,319] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 07:08:53 CST 2017] sleep 600
+开始查询from:1505494789 to:1505495989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3544 --:--:-- --:--:-- --:--:--  3544  0 7783k    0  1091    0    90   2414    199  0:55:01 --:--:--  0:55:01  2344 30 7783k   30 2335k    0    90  1843k     71  0:00:04  0:00:01  0:00:03 1880k 60 7783k   60 4703k    0    90  2074k     39  0:00:03  0:00:02  0:00:01 2098k 87 7783k   87 6841k    0    90  2073k     27  0:00:03  0:00:03 --:--:-- 2089k100 7783k  100 7783k    0    90  2180k     25  0:00:03  0:00:03 --:--:-- 2196k
+[2017-09-20 07:18:56,782] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505863133 (com.JsonResolver)
+[2017-09-20 07:18:56,783] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505863133 (com.JsonResolver)
+[2017-09-20 07:18:56,783] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 07:25:25 CST 2017] sleep 600
+开始查询from:1505495989 to:1505497189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3440 --:--:-- --:--:-- --:--:--  3440 18 7785k   18 1452k    0    90  1672k    103  0:00:04 --:--:--  0:00:04 1723k 49 7785k   49 3828k    0    90  2048k     48  0:00:03  0:00:01  0:00:02 2077k 79 7785k   79 6202k    0    90  2162k     31  0:00:03  0:00:02  0:00:01 2181k100 7785k  100 7785k    0    90  2195k     25  0:00:03  0:00:03 --:--:-- 2211k
+[2017-09-20 07:35:29,162] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505864125 (com.JsonResolver)
+[2017-09-20 07:35:29,163] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505864125 (com.JsonResolver)
+[2017-09-20 07:35:29,163] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 07:42:10 CST 2017] sleep 600
+开始查询from:1505497189 to:1505498389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3381 --:--:-- --:--:-- --:--:--  3381  0 7783k    0  1091    0    90   2274    187  0:58:24 --:--:--  0:58:24  2209 30 7783k   30 2389k    0    90  1816k     68  0:00:04  0:00:01  0:00:03 1853k 61 7783k   61 4764k    0    90  2058k     38  0:00:03  0:00:02  0:00:01 2081k 91 7783k   91 7130k    0    90  2150k     27  0:00:03  0:00:03 --:--:-- 2167k100 7783k  100 7783k    0    90  2168k     25  0:00:03  0:00:03 --:--:-- 2184k
+[2017-09-20 07:52:14,750] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505865130 (com.JsonResolver)
+[2017-09-20 07:52:14,750] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505865130 (com.JsonResolver)
+[2017-09-20 07:52:14,750] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 07:59:16 CST 2017] sleep 600
+开始查询from:1505498389 to:1505499589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3911 --:--:-- --:--:-- --:--:--  3911 16 7782k   16 1256k    0    90  1614k    115  0:00:04 --:--:--  0:00:04 1661k 46 7782k   46 3639k    0    90  2045k     50  0:00:03  0:00:01  0:00:02 2072k 77 7782k   77 6006k    0    90  2161k     32  0:00:03  0:00:02  0:00:01 2179k100 7782k  100 7782k    0    90  2202k     25  0:00:03  0:00:03 --:--:-- 2217k
+[2017-09-20 08:09:20,241] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505866156 (com.JsonResolver)
+[2017-09-20 08:09:20,242] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505866156 (com.JsonResolver)
+[2017-09-20 08:09:20,242] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 08:15:39 CST 2017] sleep 600
+开始查询from:1505499589 to:1505500789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3548 --:--:-- --:--:-- --:--:--  3548 17 7782k   17 1329k    0    90  1639k    110  0:00:04 --:--:--  0:00:04 1691k 47 7782k   47 3680k    0    90  2032k     49  0:00:03  0:00:01  0:00:02 2060k 77 7782k   77 6051k    0    90  2152k     32  0:00:03  0:00:02  0:00:01 2172k100 7782k  100 7782k    0    90  2198k     25  0:00:03  0:00:03 --:--:-- 2214k
+[2017-09-20 08:25:43,216] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505867139 (com.JsonResolver)
+[2017-09-20 08:25:43,216] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505867139 (com.JsonResolver)
+[2017-09-20 08:25:43,216] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 08:32:27 CST 2017] sleep 600
+开始查询from:1505500789 to:1505501989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3427 --:--:-- --:--:-- --:--:--  3427  4 7782k    4  375k    0    90   636k    152  0:00:12 --:--:--  0:00:12  665k 39 7782k   39 3069k    0    90  1930k     56  0:00:04  0:00:01  0:00:03 1962k 69 7782k   69 5440k    0    90  2100k     34  0:00:03  0:00:02  0:00:01 2121k100 7782k  100 7782k    0    90  2174k     25  0:00:03  0:00:03 --:--:-- 2190k
+[2017-09-20 08:42:31,465] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505868147 (com.JsonResolver)
+[2017-09-20 08:42:31,466] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505868147 (com.JsonResolver)
+[2017-09-20 08:42:31,468] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 08:49:28 CST 2017] sleep 600
+开始查询from:1505501989 to:1505503189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3057 --:--:-- --:--:-- --:--:--  3057 19 7782k   19 1509k    0    90  1505k     89  0:00:05  0:00:01  0:00:04 1551k 49 7782k   49 3878k    0    90  1937k     44  0:00:04  0:00:02  0:00:02 1965k 80 7782k   80 6247k    0    90  2081k     29  0:00:03  0:00:03 --:--:-- 2101k100 7782k  100 7782k    0    90  2130k     24  0:00:03  0:00:03 --:--:-- 2148k
+[2017-09-20 08:59:32,133] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505869168 (com.JsonResolver)
+[2017-09-20 08:59:32,134] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505869168 (com.JsonResolver)
+[2017-09-20 08:59:32,134] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 09:05:20 CST 2017] sleep 600
+开始查询from:1505503189 to:1505504389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3385 --:--:-- --:--:-- --:--:--  3385 16 7782k   16 1319k    0    90  1452k     99  0:00:05 --:--:--  0:00:05 1494k 47 7782k   47 3699k    0    90  1938k     47  0:00:04  0:00:01  0:00:03 1965k 77 7782k   77 6041k    0    90  2077k     30  0:00:03  0:00:02  0:00:01 2096k100 7782k  100 7782k    0    90  2137k     24  0:00:03  0:00:03 --:--:-- 2153k
+[2017-09-20 09:15:24,209] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505870120 (com.JsonResolver)
+[2017-09-20 09:15:24,210] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505870120 (com.JsonResolver)
+[2017-09-20 09:15:24,210] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 09:20:44 CST 2017] sleep 600
+开始查询from:1505504389 to:1505505589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3569 --:--:-- --:--:-- --:--:--  3569  0 7782k    0 15151    0    90  29442    174  0:04:30 --:--:--  0:04:30 30736 36 7782k   36 2806k    0    90  1872k     60  0:00:04  0:00:01  0:00:03 1903k 66 7782k   66 5137k    0    90  2056k     36  0:00:03  0:00:02  0:00:01 2076k 96 7782k   96 7516k    0    90  2148k     25  0:00:03  0:00:03 --:--:-- 2163k100 7782k  100 7782k    0    90  2155k     24  0:00:03  0:00:03 --:--:-- 2170k
+[2017-09-20 09:30:48,596] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505871044 (com.JsonResolver)
+[2017-09-20 09:30:48,597] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505871044 (com.JsonResolver)
+[2017-09-20 09:30:48,597] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 09:36:52 CST 2017] sleep 600
+开始查询from:1505505589 to:1505506789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3401 --:--:-- --:--:-- --:--:--  3401  5 7782k    5  392k    0    90   631k    144  0:00:12 --:--:--  0:00:12  658k 39 7782k   39 3042k    0    90  1721k     50  0:00:04  0:00:01  0:00:03 1747k 70 7782k   70 5468k    0    90  2086k     34  0:00:03  0:00:02  0:00:01 2106k100 7782k  100 7782k    0    90  2160k     24  0:00:03  0:00:03 --:--:-- 2176k
+[2017-09-20 09:46:56,464] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505872012 (com.JsonResolver)
+[2017-09-20 09:46:56,465] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505872012 (com.JsonResolver)
+[2017-09-20 09:46:56,465] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 09:53:12 CST 2017] sleep 600
+开始查询from:1505506789 to:1505507989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3425 --:--:-- --:--:-- --:--:--  3425  0 7782k    0  1091    0    90   2351    193  0:56:29 --:--:--  0:56:29  2285 24 7782k   24 1913k    0    90  1736k     81  0:00:04  0:00:01  0:00:03 1776k 54 7782k   54 4278k    0    90  2035k     42  0:00:03  0:00:02  0:00:01 2060k 85 7782k   85 6649k    0    90  2143k     29  0:00:03  0:00:03 --:--:-- 2161k100 7782k  100 7782k    0    90  2173k     25  0:00:03  0:00:03 --:--:-- 2189k
+[2017-09-20 10:03:15,960] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505872992 (com.JsonResolver)
+[2017-09-20 10:03:15,961] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505872992 (com.JsonResolver)
+[2017-09-20 10:03:15,961] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 10:09:39 CST 2017] sleep 600
+开始查询from:1505507989 to:1505509189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3436 --:--:-- --:--:-- --:--:--  3436 13 7782k   13 1064k    0    90  1507k    127  0:00:05 --:--:--  0:00:05 1564k 40 7782k   40 3155k    0    90  1835k     52  0:00:04  0:00:01  0:00:03 1863k 74 7782k   74 5799k    0    90  2143k     33  0:00:03  0:00:02  0:00:01 2164k100 7782k  100 7782k    0    90  2196k     25  0:00:03  0:00:03 --:--:-- 2212k
+[2017-09-20 10:19:43,326] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505873979 (com.JsonResolver)
+[2017-09-20 10:19:43,327] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505873979 (com.JsonResolver)
+[2017-09-20 10:19:43,327] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 10:25:55 CST 2017] sleep 600
+开始查询from:1505509189 to:1505510389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3436 --:--:-- --:--:-- --:--:--  3436  0 7783k    0  1091    0    90   2644    218  0:50:14 --:--:--  0:50:14  2586 35 7783k   35 2745k    0    90  1961k     64  0:00:03  0:00:01  0:00:02 1998k 65 7783k   65 5115k    0    90  2131k     37  0:00:03  0:00:02  0:00:01 2153k 95 7783k   95 7461k    0    90  2194k     26  0:00:03  0:00:03 --:--:-- 2211k100 7783k  100 7783k    0    90  2201k     25  0:00:03  0:00:03 --:--:-- 2217k
+[2017-09-20 10:35:59,615] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505874955 (com.JsonResolver)
+[2017-09-20 10:35:59,615] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505874955 (com.JsonResolver)
+[2017-09-20 10:35:59,616] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 10:43:04 CST 2017] sleep 600
+开始查询from:1505510389 to:1505511589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3323 --:--:-- --:--:-- --:--:--  3323 15 7783k   15 1201k    0    90  1537k    115  0:00:05 --:--:--  0:00:05 1592k 43 7783k   43 3404k    0    90  1868k     49  0:00:04  0:00:01  0:00:03 1895k 76 7783k   76 5951k    0    90  2139k     32  0:00:03  0:00:02  0:00:01 2160k100 7783k  100 7783k    0    90  2186k     25  0:00:03  0:00:03 --:--:-- 2203k
+[2017-09-20 10:53:08,261] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505875984 (com.JsonResolver)
+[2017-09-20 10:53:08,262] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505875984 (com.JsonResolver)
+[2017-09-20 10:53:08,262] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 10:58:53 CST 2017] sleep 600
+开始查询from:1505511589 to:1505512789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3456 --:--:-- --:--:-- --:--:--  3456  0 7788k    0  3987    0    90   8329    188  0:15:57 --:--:--  0:15:57  8602 35 7788k   35 2772k    0    90  1874k     60  0:00:04  0:00:01  0:00:03 1907k 65 7788k   65 5130k    0    90  2069k     36  0:00:03  0:00:02  0:00:01 2091k 96 7788k   96 7496k    0    90  2154k     25  0:00:03  0:00:03 --:--:-- 2170k100 7788k  100 7788k    0    90  2162k     24  0:00:03  0:00:03 --:--:-- 2177k
+[2017-09-20 11:08:57,600] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505876933 (com.JsonResolver)
+[2017-09-20 11:08:57,601] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505876933 (com.JsonResolver)
+[2017-09-20 11:08:57,601] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 11:15:35 CST 2017] sleep 600
+开始查询from:1505512789 to:1505513989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3496 --:--:-- --:--:-- --:--:--  3496 21 7791k   21 1690k    0    90  1680k     89  0:00:04  0:00:01  0:00:03 1723k 52 7791k   52 4066k    0    90  2027k     44  0:00:03  0:00:02  0:00:01 2052k 82 7791k   82 6424k    0    90  2137k     29  0:00:03  0:00:03 --:--:-- 2155k100 7791k  100 7791k    0    90  2173k     25  0:00:03  0:00:03 --:--:-- 2189k
+[2017-09-20 11:25:39,054] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505877935 (com.JsonResolver)
+[2017-09-20 11:25:39,055] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505877935 (com.JsonResolver)
+[2017-09-20 11:25:39,055] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 11:33:19 CST 2017] sleep 600
+开始查询from:1505513989 to:1505515189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2719 --:--:-- --:--:-- --:--:--  2719  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 12 7791k   12  997k    0    90   354k     31  0:00:21  0:00:02  0:00:19  358k 39 7791k   39 3056k    0    90   790k     23  0:00:09  0:00:03  0:00:06  797k 73 7791k   73 5726k    0    90  1189k     18  0:00:06  0:00:04  0:00:02 1197k100 7791k  100 7791k    0    90  1369k     15  0:00:05  0:00:05 --:--:-- 1673k
+[2017-09-20 11:43:25,358] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505878999 (com.JsonResolver)
+[2017-09-20 11:43:25,359] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505878999 (com.JsonResolver)
+[2017-09-20 11:43:25,359] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 11:50:04 CST 2017] sleep 600
+开始查询from:1505515189 to:1505516389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3470 --:--:-- --:--:-- --:--:--  3470  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 7793k    0  1091    0    90    839     69  2:38:31  0:00:01  2:38:30   785 31 7793k   31 2476k    0    90  1140k     41  0:00:06  0:00:02  0:00:04 1153k 62 7793k   62 4857k    0    90  1531k     28  0:00:05  0:00:03  0:00:02 1543k 92 7793k   92 7210k    0    90  1728k     21  0:00:04  0:00:04 --:--:-- 1739k100 7793k  100 7793k    0    90  1764k     20  0:00:04  0:00:04 --:--:-- 2298k
+[2017-09-20 12:00:08,721] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505880004 (com.JsonResolver)
+[2017-09-20 12:00:08,721] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505880004 (com.JsonResolver)
+[2017-09-20 12:00:08,721] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 12:05:57 CST 2017] sleep 600
+开始查询from:1505516389 to:1505517589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3444 --:--:-- --:--:-- --:--:--  3444  0 7793k    0  1091    0    90   1857    153  1:11:37 --:--:--  1:11:37  1781 26 7793k   26 2103k    0    90  1611k     68  0:00:04  0:00:01  0:00:03 1644k 57 7793k   57 4476k    0    90  1942k     39  0:00:04  0:00:02  0:00:02 1964k 87 7793k   87 6843k    0    90  2070k     27  0:00:03  0:00:03 --:--:-- 2086k100 7793k  100 7793k    0    90  2102k     24  0:00:03  0:00:03 --:--:-- 2117k
+[2017-09-20 12:16:01,873] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505880957 (com.JsonResolver)
+[2017-09-20 12:16:01,873] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505880957 (com.JsonResolver)
+[2017-09-20 12:16:01,874] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 12:22:08 CST 2017] sleep 600
+开始查询from:1505517589 to:1505518789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3313 --:--:-- --:--:-- --:--:--  3313  0 7793k    0  1091    0    90   1696    139  1:18:25 --:--:--  1:18:25  1625 23 7793k   23 1819k    0    90  1472k     72  0:00:05  0:00:01  0:00:04 1504k 53 7793k   53 4186k    0    90  1872k     40  0:00:04  0:00:02  0:00:02 1895k 83 7793k   83 6532k    0    90  2019k     27  0:00:03  0:00:03 --:--:-- 2036k100 7793k  100 7793k    0    90  2069k     23  0:00:03  0:00:03 --:--:-- 2083k
+[2017-09-20 12:32:12,002] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505881928 (com.JsonResolver)
+[2017-09-20 12:32:12,002] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505881928 (com.JsonResolver)
+[2017-09-20 12:32:12,002] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 12:38:53 CST 2017] sleep 600
+开始查询from:1505518789 to:1505519989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3518 --:--:-- --:--:-- --:--:--  3518  3 7794k    3  289k    0    90   438k    136  0:00:17 --:--:--  0:00:17  455k 39 7794k   39 3067k    0    90  1848k     54  0:00:04  0:00:01  0:00:03 1876k 69 7794k   69 5433k    0    90  2042k     33  0:00:03  0:00:02  0:00:01 2062k100 7794k  100 7794k    0    90  2131k     24  0:00:03  0:00:03 --:--:-- 2147k
+[2017-09-20 12:48:57,476] INFO inpath:/tmp/es_data_tmp/rtmp_publish/rtmp_publish_1505882933 (com.JsonResolver)
+[2017-09-20 12:48:57,477] INFO outpath:/tmp/es_data/rtmp_publish/rtmp_publish_1505882933 (com.JsonResolver)
+[2017-09-20 12:48:57,477] INFO type:rtmp_publish (com.JsonResolver)
+[Wed Sep 20 12:54:51 CST 2017] sleep 600

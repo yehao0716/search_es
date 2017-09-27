@@ -1,0 +1,581 @@
+a:09/15/17
+t_start:1505433589
+b:09/16/17
+t_end:1505519989
+t_tmp:1505434789
+开始查询from:1505433589 to:1505434789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3652 --:--:-- --:--:-- --:--:--  3652  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0 30 3940k   30 1188k    0    90   311k     23  0:00:12  0:00:03  0:00:09  313k 90 3940k   90 3565k    0    90   740k     18  0:00:05  0:00:04  0:00:01  744k100 3940k  100 3940k    0    90   792k     18  0:00:04  0:00:04 --:--:--  997k
+[2017-09-19 17:19:03,650] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505812738 (com.JsonResolver)
+[2017-09-19 17:19:03,650] INFO outpath:/tmp/es_data/request_relay/request_relay_1505812738 (com.JsonResolver)
+[2017-09-19 17:19:03,650] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 17:20:07 CST 2017] sleep 600
+开始查询from:1505434789 to:1505435989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0     12 --:--:--  0:00:07 --:--:--    12  0     0    0     0    0    90      0     11 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0    90      0      9 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0    90      0      8 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0    90      0      8 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0    90      0      7 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0    90      0      6 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0    90      0      6 --:--:--  0:00:14 --:--:--     0 13 4069k   13  529k    0    90  36392      6  0:01:54  0:00:14  0:01:40  108k 68 4069k   68 2767k    0    90   173k      5  0:00:23  0:00:15  0:00:08  566k100 4069k  100 4069k    0    90   249k      5  0:00:16  0:00:16 --:--:--  955k
+[2017-09-19 17:30:23,871] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505813407 (com.JsonResolver)
+[2017-09-19 17:30:23,872] INFO outpath:/tmp/es_data/request_relay/request_relay_1505813407 (com.JsonResolver)
+[2017-09-19 17:30:23,872] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 17:31:33 CST 2017] sleep 600
+开始查询from:1505435989 to:1505437189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3241 --:--:-- --:--:-- --:--:--  3241  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 4247k    0  1091    0    90    286     23  4:13:27  0:00:03  4:13:24   264 53 4247k   53 2287k    0    90   497k     19  0:00:08  0:00:04  0:00:04  500k100 4247k  100 4247k    0    90   783k     16  0:00:05  0:00:05 --:--:--  966k
+[2017-09-19 17:41:39,305] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505814093 (com.JsonResolver)
+[2017-09-19 17:41:39,306] INFO outpath:/tmp/es_data/request_relay/request_relay_1505814093 (com.JsonResolver)
+[2017-09-19 17:41:39,306] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 17:43:04 CST 2017] sleep 600
+开始查询from:1505437189 to:1505438389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3469 --:--:-- --:--:-- --:--:--  3469  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 4446k    0  1091    0    90    278     22  4:32:57  0:00:03  4:32:54   256 38 4446k   38 1717k    0    90   383k     20  0:00:11  0:00:04  0:00:07  385k 91 4446k   91 4088k    0    90   746k     16  0:00:05  0:00:05 --:--:--  918k100 4446k  100 4446k    0    90   790k     15  0:00:05  0:00:05 --:--:-- 1235k
+[2017-09-19 17:53:10,639] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505814784 (com.JsonResolver)
+[2017-09-19 17:53:10,640] INFO outpath:/tmp/es_data/request_relay/request_relay_1505814784 (com.JsonResolver)
+[2017-09-19 17:53:10,640] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 17:55:02 CST 2017] sleep 600
+开始查询from:1505438389 to:1505439589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2976 --:--:-- --:--:-- --:--:--  2976  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 4461k    0  1091    0    90    278     22  4:33:53  0:00:03  4:33:50   257 45 4461k   45 2019k    0    90   439k     19  0:00:10  0:00:04  0:00:06  441k 98 4461k   98 4402k    0    90   786k     16  0:00:05  0:00:05 --:--:--  963k100 4461k  100 4461k    0    90   792k     15  0:00:05  0:00:05 --:--:-- 1240k
+[2017-09-19 18:05:08,509] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505815502 (com.JsonResolver)
+[2017-09-19 18:05:08,510] INFO outpath:/tmp/es_data/request_relay/request_relay_1505815502 (com.JsonResolver)
+[2017-09-19 18:05:08,510] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 18:06:24 CST 2017] sleep 600
+开始查询from:1505439589 to:1505440789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3484 --:--:-- --:--:-- --:--:--  3484  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 36 4459k   36 1626k    0    90   345k     19  0:00:12  0:00:04  0:00:08  347k 89 4459k   89 3995k    0    90   700k     15  0:00:06  0:00:05  0:00:01  853k100 4459k  100 4459k    0    90   755k     15  0:00:05  0:00:05 --:--:-- 1151k
+[2017-09-19 18:16:30,674] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505816184 (com.JsonResolver)
+[2017-09-19 18:16:30,674] INFO outpath:/tmp/es_data/request_relay/request_relay_1505816184 (com.JsonResolver)
+[2017-09-19 18:16:30,674] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 18:17:46 CST 2017] sleep 600
+开始查询from:1505440789 to:1505441989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3471 --:--:-- --:--:-- --:--:--  3471  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 4568k    0  1091    0    90    280     23  4:38:29  0:00:03  4:38:26   258 56 4568k   56 2594k    0    90   538k     18  0:00:08  0:00:04  0:00:04  541k100 4568k  100 4568k    0    90   809k     15  0:00:05  0:00:05 --:--:--  989k
+[2017-09-19 18:27:52,321] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505816866 (com.JsonResolver)
+[2017-09-19 18:27:52,322] INFO outpath:/tmp/es_data/request_relay/request_relay_1505816866 (com.JsonResolver)
+[2017-09-19 18:27:52,322] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 18:29:13 CST 2017] sleep 600
+开始查询from:1505441989 to:1505443189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3471 --:--:-- --:--:-- --:--:--  3471  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 34 4711k   34 1638k    0    90   340k     18  0:00:13  0:00:04  0:00:09  342k 85 4711k   85 4006k    0    90   689k     15  0:00:06  0:00:05  0:00:01  837k100 4711k  100 4711k    0    90   771k     14  0:00:06  0:00:06 --:--:-- 1155k
+[2017-09-19 18:39:19,773] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505817553 (com.JsonResolver)
+[2017-09-19 18:39:19,773] INFO outpath:/tmp/es_data/request_relay/request_relay_1505817553 (com.JsonResolver)
+[2017-09-19 18:39:19,773] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 18:40:45 CST 2017] sleep 600
+开始查询from:1505443189 to:1505444389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3423 --:--:-- --:--:-- --:--:--  3423  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 34 4936k   34 1693k    0    90   365k     19  0:00:13  0:00:04  0:00:09  367k 82 4936k   82 4068k    0    90   721k     15  0:00:06  0:00:05  0:00:01  882k100 4936k  100 4936k    0    90   822k     14  0:00:06  0:00:06 --:--:-- 1242k
+[2017-09-19 18:50:51,844] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505818245 (com.JsonResolver)
+[2017-09-19 18:50:51,844] INFO outpath:/tmp/es_data/request_relay/request_relay_1505818245 (com.JsonResolver)
+[2017-09-19 18:50:51,844] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 18:52:24 CST 2017] sleep 600
+开始查询from:1505444389 to:1505445589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3447 --:--:-- --:--:-- --:--:--  3447  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 27 4920k   27 1376k    0    90   282k     18  0:00:17  0:00:04  0:00:13  284k 76 4920k   76 3753k    0    90   639k     15  0:00:07  0:00:05  0:00:02  775k100 4920k  100 4920k    0    90   773k     14  0:00:06  0:00:06 --:--:-- 1136k
+[2017-09-19 19:02:30,994] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505818944 (com.JsonResolver)
+[2017-09-19 19:02:30,996] INFO outpath:/tmp/es_data/request_relay/request_relay_1505818944 (com.JsonResolver)
+[2017-09-19 19:02:30,997] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 19:04:07 CST 2017] sleep 600
+开始查询from:1505445589 to:1505446789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3415 --:--:-- --:--:-- --:--:--  3415  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 19 4981k   19  984k    0    90   212k     19  0:00:23  0:00:04  0:00:19  213k 62 4981k   62 3101k    0    90   543k     15  0:00:09  0:00:05  0:00:04  662k100 4981k  100 4981k    0    90   787k     14  0:00:06  0:00:06 --:--:-- 1159k
+[2017-09-19 19:14:14,174] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505819647 (com.JsonResolver)
+[2017-09-19 19:14:14,174] INFO outpath:/tmp/es_data/request_relay/request_relay_1505819647 (com.JsonResolver)
+[2017-09-19 19:14:14,174] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 19:15:49 CST 2017] sleep 600
+开始查询from:1505446789 to:1505447989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3345 --:--:-- --:--:-- --:--:--  3345  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  0 5072k    0  1091    0    90    245     20  5:53:19  0:00:04  5:53:15   226 44 5072k   44 2251k    0    90   430k     17  0:00:11  0:00:05  0:00:06  536k 91 5072k   91 4616k    0    90   741k     14  0:00:06  0:00:06 --:--:-- 1099k100 5072k  100 5072k    0    90   790k     14  0:00:06  0:00:06 --:--:-- 1496k
+[2017-09-19 19:25:55,669] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505820349 (com.JsonResolver)
+[2017-09-19 19:25:55,669] INFO outpath:/tmp/es_data/request_relay/request_relay_1505820349 (com.JsonResolver)
+[2017-09-19 19:25:55,669] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 19:27:41 CST 2017] sleep 600
+开始查询from:1505447989 to:1505449189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3433 --:--:-- --:--:-- --:--:--  3433  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 33 5180k   33 1714k    0    90   343k     18  0:00:15  0:00:04  0:00:11  345k 78 5180k   78 4068k    0    90   679k     15  0:00:07  0:00:05  0:00:02  820k100 5180k  100 5180k    0    90   802k     13  0:00:06  0:00:06 --:--:-- 1170k
+[2017-09-19 19:37:47,952] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505821061 (com.JsonResolver)
+[2017-09-19 19:37:47,952] INFO outpath:/tmp/es_data/request_relay/request_relay_1505821061 (com.JsonResolver)
+[2017-09-19 19:37:47,952] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 19:39:29 CST 2017] sleep 600
+开始查询from:1505449189 to:1505450389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3542 --:--:-- --:--:-- --:--:--  3542  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  7 5212k    7  416k    0    90  93807     19  0:00:56  0:00:04  0:00:52 94312 59 5212k   59 3087k    0    90   557k     16  0:00:09  0:00:05  0:00:04  683k100 5212k  100 5212k    0    90   809k     13  0:00:06  0:00:06 --:--:-- 1182k
+[2017-09-19 19:49:36,366] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505821769 (com.JsonResolver)
+[2017-09-19 19:49:36,367] INFO outpath:/tmp/es_data/request_relay/request_relay_1505821769 (com.JsonResolver)
+[2017-09-19 19:49:36,367] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 19:51:35 CST 2017] sleep 600
+开始查询from:1505450389 to:1505451589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3532 --:--:-- --:--:-- --:--:--  3532  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 5100k    0  1091    0    90    274     22  5:17:40  0:00:03  5:17:37   253 22 5100k   22 1123k    0    90   262k     21  0:00:19  0:00:04  0:00:15  263k 68 5100k   68 3480k    0    90   658k     17  0:00:07  0:00:05  0:00:02  817k100 5100k  100 5100k    0    90   855k     15  0:00:05  0:00:05 --:--:-- 1296k
+[2017-09-19 20:01:42,169] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505822496 (com.JsonResolver)
+[2017-09-19 20:01:42,170] INFO outpath:/tmp/es_data/request_relay/request_relay_1505822496 (com.JsonResolver)
+[2017-09-19 20:01:42,170] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 20:03:29 CST 2017] sleep 600
+开始查询from:1505451589 to:1505452789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3479 --:--:-- --:--:-- --:--:--  3479  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  0 5652k    0 15151    0    90   3325     19  0:29:00  0:00:04  0:28:56  3324 30 5652k   30 1749k    0    90   341k     17  0:00:16  0:00:05  0:00:11  426k 72 5652k   72 4119k    0    90   672k     14  0:00:08  0:00:06  0:00:02 1005k100 5652k  100 5652k    0    90   835k     13  0:00:06  0:00:06 --:--:-- 1511k
+[2017-09-19 20:13:36,115] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505823209 (com.JsonResolver)
+[2017-09-19 20:13:36,115] INFO outpath:/tmp/es_data/request_relay/request_relay_1505823209 (com.JsonResolver)
+[2017-09-19 20:13:36,115] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 20:15:53 CST 2017] sleep 600
+开始查询from:1505452789 to:1505453989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3427 --:--:-- --:--:-- --:--:--  3427  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 11 4736k   11  521k    0    90   122k     21  0:00:38  0:00:04  0:00:34  122k 66 4736k   66 3129k    0    90   576k     16  0:00:08  0:00:05  0:00:03  710k100 4736k  100 4736k    0    90   796k     15  0:00:05  0:00:05 --:--:-- 1209k
+[2017-09-19 20:25:59,160] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505823953 (com.JsonResolver)
+[2017-09-19 20:25:59,160] INFO outpath:/tmp/es_data/request_relay/request_relay_1505823953 (com.JsonResolver)
+[2017-09-19 20:25:59,161] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 20:27:44 CST 2017] sleep 600
+开始查询from:1505453989 to:1505455189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3548 --:--:-- --:--:-- --:--:--  3548  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 4712k    0  1091    0    90    273     22  4:54:37  0:00:03  4:54:34   252 32 4712k   32 1530k    0    90   341k     20  0:00:13  0:00:04  0:00:09  343k 82 4712k   82 3886k    0    90   708k     16  0:00:06  0:00:05  0:00:01  871k100 4712k  100 4712k    0    90   808k     15  0:00:05  0:00:05 --:--:-- 1238k
+[2017-09-19 20:37:50,854] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505824664 (com.JsonResolver)
+[2017-09-19 20:37:50,855] INFO outpath:/tmp/es_data/request_relay/request_relay_1505824664 (com.JsonResolver)
+[2017-09-19 20:37:50,855] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 20:39:17 CST 2017] sleep 600
+开始查询from:1505455189 to:1505456389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2872 --:--:-- --:--:-- --:--:--  2872  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 24 4800k   24 1178k    0    90   268k     20  0:00:17  0:00:04  0:00:13  270k 66 4800k   66 3197k    0    90   592k     16  0:00:08  0:00:05  0:00:03  732k100 4800k  100 4800k    0    90   810k     15  0:00:05  0:00:05 --:--:-- 1234k
+[2017-09-19 20:49:24,014] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505825357 (com.JsonResolver)
+[2017-09-19 20:49:24,015] INFO outpath:/tmp/es_data/request_relay/request_relay_1505825357 (com.JsonResolver)
+[2017-09-19 20:49:24,015] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 20:51:06 CST 2017] sleep 600
+开始查询from:1505456389 to:1505457589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3502 --:--:-- --:--:-- --:--:--  3502  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 29 4643k   29 1352k    0    90   281k     18  0:00:16  0:00:04  0:00:12  283k 80 4643k   80 3732k    0    90   643k     15  0:00:07  0:00:05  0:00:02  782k100 4643k  100 4643k    0    90   750k     14  0:00:06  0:00:06 --:--:-- 1117k
+[2017-09-19 21:01:12,868] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505826066 (com.JsonResolver)
+[2017-09-19 21:01:12,869] INFO outpath:/tmp/es_data/request_relay/request_relay_1505826066 (com.JsonResolver)
+[2017-09-19 21:01:12,869] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 21:02:45 CST 2017] sleep 600
+开始查询from:1505457589 to:1505458789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3472 --:--:-- --:--:-- --:--:--  3472  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 19 4741k   19  941k    0    90   212k     20  0:00:22  0:00:04  0:00:18  213k 65 4741k   65 3086k    0    90   546k     15  0:00:08  0:00:05  0:00:03  667k100 4741k  100 4741k    0    90   784k     14  0:00:06  0:00:06 --:--:-- 1181k
+[2017-09-19 21:12:52,096] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505826765 (com.JsonResolver)
+[2017-09-19 21:12:52,097] INFO outpath:/tmp/es_data/request_relay/request_relay_1505826765 (com.JsonResolver)
+[2017-09-19 21:12:52,097] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 21:14:39 CST 2017] sleep 600
+开始查询from:1505458789 to:1505459989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3521 --:--:-- --:--:-- --:--:--  3521  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 48 4845k   48 2373k    0    90   476k     18  0:00:10  0:00:04  0:00:06  478k 97 4845k   97 4746k    0    90   793k     15  0:00:06  0:00:05  0:00:01  957k100 4845k  100 4845k    0    90   804k     14  0:00:06  0:00:06 --:--:-- 1212k
+[2017-09-19 21:24:45,517] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505827479 (com.JsonResolver)
+[2017-09-19 21:24:45,518] INFO outpath:/tmp/es_data/request_relay/request_relay_1505827479 (com.JsonResolver)
+[2017-09-19 21:24:45,518] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 21:26:17 CST 2017] sleep 600
+开始查询from:1505459989 to:1505461189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--    87  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  0 4860k    0  1091    0    90    219     18  6:18:48  0:00:04  6:18:44   253 39 4860k   39 1926k    0    90   342k     16  0:00:14  0:00:05  0:00:09  419k 88 4860k   88 4296k    0    90   649k     13  0:00:07  0:00:06  0:00:01  936k100 4860k  100 4860k    0    90   708k     13  0:00:06  0:00:06 --:--:-- 1269k
+[2017-09-19 21:36:24,719] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505828177 (com.JsonResolver)
+[2017-09-19 21:36:24,719] INFO outpath:/tmp/es_data/request_relay/request_relay_1505828177 (com.JsonResolver)
+[2017-09-19 21:36:24,719] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 21:38:15 CST 2017] sleep 600
+开始查询from:1505461189 to:1505462389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3475 --:--:-- --:--:-- --:--:--  3475  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 5122k    0  1091    0    90    274     22  5:19:03  0:00:03  5:19:00   253 53 5122k   53 2748k    0    90   553k     18  0:00:09  0:00:04  0:00:05  556k100 5122k  100 5122k    0    90   859k     15  0:00:05  0:00:05 --:--:-- 1038k100 5122k  100 5122k    0    90   859k     15  0:00:05  0:00:05 --:--:-- 1302k
+[2017-09-19 21:48:21,477] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505828895 (com.JsonResolver)
+[2017-09-19 21:48:21,478] INFO outpath:/tmp/es_data/request_relay/request_relay_1505828895 (com.JsonResolver)
+[2017-09-19 21:48:21,478] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 21:50:39 CST 2017] sleep 600
+开始查询from:1505462389 to:1505463589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3568 --:--:-- --:--:-- --:--:--  3568  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 37 5208k   37 1952k    0    90   408k     18  0:00:12  0:00:04  0:00:08  410k 82 5208k   82 4320k    0    90   747k     15  0:00:06  0:00:05  0:00:01  909k100 5208k  100 5208k    0    90   846k     14  0:00:06  0:00:06 --:--:-- 1263k
+[2017-09-19 22:00:45,843] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505829639 (com.JsonResolver)
+[2017-09-19 22:00:45,844] INFO outpath:/tmp/es_data/request_relay/request_relay_1505829639 (com.JsonResolver)
+[2017-09-19 22:00:45,844] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 22:02:31 CST 2017] sleep 600
+开始查询from:1505463589 to:1505464789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3951 --:--:-- --:--:-- --:--:--  3951  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  3 5095k    3  164k    0    90  35273     18  0:02:27  0:00:04  0:02:23 35416 57 5095k   57 2917k    0    90   493k     15  0:00:10  0:00:05  0:00:05  596k100 5095k  100 5095k    0    90   763k     13  0:00:06  0:00:06 --:--:-- 1097k
+[2017-09-19 22:12:38,383] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505830351 (com.JsonResolver)
+[2017-09-19 22:12:38,384] INFO outpath:/tmp/es_data/request_relay/request_relay_1505830351 (com.JsonResolver)
+[2017-09-19 22:12:38,384] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 22:14:41 CST 2017] sleep 600
+开始查询from:1505464789 to:1505465989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3353 --:--:-- --:--:-- --:--:--  3353  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 31 5056k   31 1590k    0    90   325k     18  0:00:15  0:00:04  0:00:11  327k 77 5056k   77 3935k    0    90   668k     15  0:00:07  0:00:05  0:00:02  810k100 5056k  100 5056k    0    90   795k     14  0:00:06  0:00:06 --:--:-- 1167k
+[2017-09-19 22:24:47,954] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505831081 (com.JsonResolver)
+[2017-09-19 22:24:47,955] INFO outpath:/tmp/es_data/request_relay/request_relay_1505831081 (com.JsonResolver)
+[2017-09-19 22:24:47,955] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 22:26:25 CST 2017] sleep 600
+开始查询from:1505465989 to:1505467189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3821 --:--:-- --:--:-- --:--:--  3821  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  1 5257k    1   99k    0    90  24001     21  0:03:44  0:00:04  0:03:40 24110 55 5257k   55 2939k    0    90   560k     17  0:00:09  0:00:05  0:00:04  696k100 5257k  100 5257k    0    90   845k     14  0:00:06  0:00:06 --:--:-- 1253k
+[2017-09-19 22:36:31,454] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505831785 (com.JsonResolver)
+[2017-09-19 22:36:31,454] INFO outpath:/tmp/es_data/request_relay/request_relay_1505831785 (com.JsonResolver)
+[2017-09-19 22:36:31,454] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 22:38:29 CST 2017] sleep 600
+开始查询from:1505467189 to:1505468389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3475 --:--:-- --:--:-- --:--:--  3475  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 17 5213k   17  936k    0    90   198k     19  0:00:26  0:00:04  0:00:22  199k 59 5213k   59 3103k    0    90   522k     15  0:00:09  0:00:05  0:00:04  631k100 5213k  100 5213k    0    90   798k     13  0:00:06  0:00:06 --:--:-- 1157k
+[2017-09-19 22:48:36,278] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505832509 (com.JsonResolver)
+[2017-09-19 22:48:36,279] INFO outpath:/tmp/es_data/request_relay/request_relay_1505832509 (com.JsonResolver)
+[2017-09-19 22:48:36,279] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 22:50:22 CST 2017] sleep 600
+开始查询from:1505468389 to:1505469589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3403 --:--:-- --:--:-- --:--:--  3403  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  4 5147k    4  236k    0    90  54840     20  0:01:36  0:00:04  0:01:32 55140 58 5147k   58 3032k    0    90   559k     16  0:00:09  0:00:05  0:00:04  690k100 5147k  100 5147k    0    90   813k     14  0:00:06  0:00:06 --:--:-- 1198k
+[2017-09-19 23:00:29,383] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505833222 (com.JsonResolver)
+[2017-09-19 23:00:29,384] INFO outpath:/tmp/es_data/request_relay/request_relay_1505833222 (com.JsonResolver)
+[2017-09-19 23:00:29,384] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 23:02:12 CST 2017] sleep 600
+开始查询from:1505469589 to:1505470789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3539 --:--:-- --:--:-- --:--:--  3539  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 43 5309k   43 2288k    0    90   466k     18  0:00:11  0:00:04  0:00:07  469k 87 5309k   87 4671k    0    90   791k     15  0:00:06  0:00:05  0:00:01  957k100 5309k  100 5309k    0    90   860k     14  0:00:06  0:00:06 --:--:-- 1281k
+[2017-09-19 23:12:18,747] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505833932 (com.JsonResolver)
+[2017-09-19 23:12:18,748] INFO outpath:/tmp/es_data/request_relay/request_relay_1505833932 (com.JsonResolver)
+[2017-09-19 23:12:18,748] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 23:14:18 CST 2017] sleep 600
+开始查询from:1505470789 to:1505471989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3284 --:--:-- --:--:-- --:--:--  3284  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  0 4824k    0  1091    0    90    260     21  5:16:41  0:00:04  5:16:37   240 50 4824k   50 2448k    0    90   484k     17  0:00:09  0:00:05  0:00:04  608k 99 4824k   99 4824k    0    90   797k     14  0:00:06  0:00:06 --:--:-- 1199k100 4824k  100 4824k    0    90   797k     14  0:00:06  0:00:06 --:--:-- 1598k
+[2017-09-19 23:24:24,487] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505834658 (com.JsonResolver)
+[2017-09-19 23:24:24,487] INFO outpath:/tmp/es_data/request_relay/request_relay_1505834658 (com.JsonResolver)
+[2017-09-19 23:24:24,488] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 23:25:57 CST 2017] sleep 600
+开始查询from:1505471989 to:1505473189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3497 --:--:-- --:--:-- --:--:--  3497  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  8 4611k    8  379k    0    90  92106     21  0:00:51  0:00:04  0:00:47 92644 66 4611k   66 3083k    0    90   590k     17  0:00:07  0:00:05  0:00:02  735k100 4611k  100 4611k    0    90   785k     15  0:00:05  0:00:05 --:--:-- 1201k
+[2017-09-19 23:36:03,118] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505835357 (com.JsonResolver)
+[2017-09-19 23:36:03,118] INFO outpath:/tmp/es_data/request_relay/request_relay_1505835357 (com.JsonResolver)
+[2017-09-19 23:36:03,118] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 23:37:26 CST 2017] sleep 600
+开始查询from:1505473189 to:1505474389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3412 --:--:-- --:--:-- --:--:--  3412  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 51 5039k   51 2591k    0    90   516k     17  0:00:09  0:00:05  0:00:04  518k 98 5039k   98 4955k    0    90   823k     14  0:00:06  0:00:06 --:--:--  992k100 5039k  100 5039k    0    90   832k     14  0:00:06  0:00:06 --:--:-- 1251k
+[2017-09-19 23:47:32,511] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505836046 (com.JsonResolver)
+[2017-09-19 23:47:32,512] INFO outpath:/tmp/es_data/request_relay/request_relay_1505836046 (com.JsonResolver)
+[2017-09-19 23:47:32,512] INFO type:request_relay (com.JsonResolver)
+[Tue Sep 19 23:49:34 CST 2017] sleep 600
+开始查询from:1505474389 to:1505475589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3361 --:--:-- --:--:-- --:--:--  3361  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0 39 5107k   39 2024k    0    90   428k     19  0:00:11  0:00:04  0:00:07  430k 85 5107k   85 4380k    0    90   764k     15  0:00:06  0:00:05  0:00:01  932k100 5107k  100 5107k    0    90   845k     14  0:00:06  0:00:06 --:--:-- 1273k
+[2017-09-19 23:59:40,789] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505836774 (com.JsonResolver)
+[2017-09-19 23:59:40,789] INFO outpath:/tmp/es_data/request_relay/request_relay_1505836774 (com.JsonResolver)
+[2017-09-19 23:59:40,790] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 00:01:26 CST 2017] sleep 600
+开始查询from:1505475589 to:1505476789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3806 --:--:-- --:--:-- --:--:--  3806  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 5121k    0 15151    0    90   3797     22  0:23:01  0:00:03  0:22:58  3796 55 5121k   55 2838k    0    90   569k     18  0:00:08  0:00:04  0:00:04  571k100 5121k  100 5121k    0    90   859k     15  0:00:05  0:00:05 --:--:-- 1038k
+[2017-09-20 00:11:32,451] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505837486 (com.JsonResolver)
+[2017-09-20 00:11:32,451] INFO outpath:/tmp/es_data/request_relay/request_relay_1505837486 (com.JsonResolver)
+[2017-09-20 00:11:32,451] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 00:13:14 CST 2017] sleep 600
+开始查询from:1505476789 to:1505477989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3582 --:--:-- --:--:-- --:--:--  3582  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0 5131k    0  1091    0    90    288     23  5:04:06  0:00:03  5:04:03   266 51 5131k   51 2660k    0    90   560k     18  0:00:09  0:00:04  0:00:05  563k 97 5131k   97 5019k    0    90   872k     15  0:00:05  0:00:05 --:--:-- 1062k100 5131k  100 5131k    0    90   885k     15  0:00:05  0:00:05 --:--:-- 1361k
+[2017-09-20 00:23:20,526] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505838194 (com.JsonResolver)
+[2017-09-20 00:23:20,526] INFO outpath:/tmp/es_data/request_relay/request_relay_1505838194 (com.JsonResolver)
+[2017-09-20 00:23:20,526] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 00:25:22 CST 2017] sleep 600
+开始查询from:1505477989 to:1505479189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0    706 --:--:-- --:--:-- --:--:--   706  0     0    0     0    0    90      0     79 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     42 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     28 --:--:--  0:00:03 --:--:--     0  0 4951k    0  1091    0    90    288     23  4:53:24  0:00:03  4:53:21   273  8 4951k    8  424k    0    90  96657     19  0:00:52  0:00:04  0:00:48 99446 62 4951k   62 3093k    0    90   564k     16  0:00:08  0:00:05  0:00:03  711k100 4951k  100 4951k    0    90   789k     14  0:00:06  0:00:06 --:--:-- 1196k
+[2017-09-20 00:35:29,276] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505838922 (com.JsonResolver)
+[2017-09-20 00:35:29,276] INFO outpath:/tmp/es_data/request_relay/request_relay_1505838922 (com.JsonResolver)
+[2017-09-20 00:35:29,277] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 00:37:06 CST 2017] sleep 600
+开始查询from:1505479189 to:1505480389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3450 --:--:-- --:--:-- --:--:--  3450  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  1 4908k    1 99135    0    90  28807     26  0:02:54  0:00:03  0:02:51 28994 59 4908k   59 2929k    0    90   660k     20  0:00:07  0:00:04  0:00:03  663k100 4908k  100 4908k    0    90   931k     17  0:00:05  0:00:05 --:--:-- 1157k
+[2017-09-20 00:47:12,319] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505839626 (com.JsonResolver)
+[2017-09-20 00:47:12,320] INFO outpath:/tmp/es_data/request_relay/request_relay_1505839626 (com.JsonResolver)
+[2017-09-20 00:47:12,320] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 00:49:28 CST 2017] sleep 600
+开始查询from:1505480389 to:1505481589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   4086 --:--:-- --:--:-- --:--:--  4086  0     0    0     0    0    90      0   3992 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0 44 4769k   44 2142k    0    90   532k     22  0:00:08  0:00:04  0:00:04  535k 94 4769k   94 4511k    0    90   898k     17  0:00:05  0:00:05 --:--:--  902k100 4769k  100 4769k    0    90   929k     17  0:00:05  0:00:05 --:--:-- 1161k
+[2017-09-20 00:59:33,597] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505840368 (com.JsonResolver)
+[2017-09-20 00:59:33,597] INFO outpath:/tmp/es_data/request_relay/request_relay_1505840368 (com.JsonResolver)
+[2017-09-20 00:59:33,597] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:01:49 CST 2017] sleep 600
+开始查询from:1505481589 to:1505482789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3437 --:--:-- --:--:-- --:--:--  3437  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0 31 4383k   31 1377k    0    90   382k     24  0:00:11  0:00:03  0:00:08  385k 85 4383k   85 3754k    0    90   815k     19  0:00:05  0:00:04  0:00:01  820k100 4383k  100 4383k    0    90   900k     18  0:00:04  0:00:04 --:--:-- 1141k
+[2017-09-20 01:11:54,741] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505841109 (com.JsonResolver)
+[2017-09-20 01:11:54,742] INFO outpath:/tmp/es_data/request_relay/request_relay_1505841109 (com.JsonResolver)
+[2017-09-20 01:11:54,742] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:13:26 CST 2017] sleep 600
+开始查询from:1505482789 to:1505483989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3406 --:--:-- --:--:-- --:--:--  3406  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0 4381k    0  1091    0    90    375     30  3:19:24  0:00:02  3:19:22   347 29 4381k   29 1281k    0    90   391k     27  0:00:11  0:00:03  0:00:08  394k 83 4381k   83 3658k    0    90   855k     21  0:00:05  0:00:04  0:00:01  860k100 4381k  100 4381k    0    90   954k     19  0:00:04  0:00:04 --:--:-- 1230k
+[2017-09-20 01:23:31,784] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505841806 (com.JsonResolver)
+[2017-09-20 01:23:31,785] INFO outpath:/tmp/es_data/request_relay/request_relay_1505841806 (com.JsonResolver)
+[2017-09-20 01:23:31,785] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:24:45 CST 2017] sleep 600
+开始查询from:1505483989 to:1505485189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3858 --:--:-- --:--:-- --:--:--  3858  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0 4125k    0  1091    0    90    377     31  3:06:46  0:00:02  3:06:44   349 27 4125k   27 1138k    0    90   355k     28  0:00:11  0:00:03  0:00:08  357k 85 4125k   85 3510k    0    90   834k     21  0:00:04  0:00:04 --:--:--  839k100 4125k  100 4125k    0    90   923k     20  0:00:04  0:00:04 --:--:-- 1197k
+[2017-09-20 01:34:49,740] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505842485 (com.JsonResolver)
+[2017-09-20 01:34:49,741] INFO outpath:/tmp/es_data/request_relay/request_relay_1505842485 (com.JsonResolver)
+[2017-09-20 01:34:49,741] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:35:55 CST 2017] sleep 600
+开始查询from:1505485189 to:1505486389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3395 --:--:-- --:--:-- --:--:--  3395  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 30 3693k   30 1137k    0    90   410k     32  0:00:08  0:00:02  0:00:06  414k 94 3693k   94 3484k    0    90   924k     23  0:00:03  0:00:03 --:--:--  930k100 3693k  100 3693k    0    90   957k     23  0:00:03  0:00:03 --:--:--  963k
+[2017-09-20 01:45:59,566] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505843155 (com.JsonResolver)
+[2017-09-20 01:45:59,567] INFO outpath:/tmp/es_data/request_relay/request_relay_1505843155 (com.JsonResolver)
+[2017-09-20 01:45:59,567] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:47:11 CST 2017] sleep 600
+开始查询from:1505486389 to:1505487589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   2773 --:--:-- --:--:-- --:--:--  2773  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  1 3395k    1 44111    0    90  17185     35  0:03:22  0:00:02  0:03:20 17365 83 3395k   83 2840k    0    90   800k     25  0:00:04  0:00:03  0:00:01  807k100 3395k  100 3395k    0    90   897k     23  0:00:03  0:00:03 --:--:--  904k
+[2017-09-20 01:57:15,721] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505843831 (com.JsonResolver)
+[2017-09-20 01:57:15,722] INFO outpath:/tmp/es_data/request_relay/request_relay_1505843831 (com.JsonResolver)
+[2017-09-20 01:57:15,722] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 01:58:05 CST 2017] sleep 600
+开始查询from:1505487589 to:1505488789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3530 --:--:-- --:--:-- --:--:--  3530  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 47 3242k   47 1550k    0    90   547k     31  0:00:05  0:00:02  0:00:03  552k100 3242k  100 3242k    0    90   913k     25  0:00:03  0:00:03 --:--:--  920k
+[2017-09-20 02:08:09,187] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505844485 (com.JsonResolver)
+[2017-09-20 02:08:09,188] INFO outpath:/tmp/es_data/request_relay/request_relay_1505844485 (com.JsonResolver)
+[2017-09-20 02:08:09,188] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 02:08:52 CST 2017] sleep 600
+开始查询from:1505488789 to:1505489989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3578 --:--:-- --:--:-- --:--:--  3578  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  1 3123k    1 44111    0    90  20197     41  0:02:38  0:00:02  0:02:36 20389 90 3123k   90 2841k    0    90   897k     28  0:00:03  0:00:03 --:--:--  904k100 3123k  100 3123k    0    90   950k     27  0:00:03  0:00:03 --:--:--  957k
+[2017-09-20 02:18:55,599] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505845132 (com.JsonResolver)
+[2017-09-20 02:18:55,599] INFO outpath:/tmp/es_data/request_relay/request_relay_1505845132 (com.JsonResolver)
+[2017-09-20 02:18:55,600] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 02:19:41 CST 2017] sleep 600
+开始查询from:1505489989 to:1505491189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3387 --:--:-- --:--:-- --:--:--  3387  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 61 2821k   61 1722k    0    90   664k     34  0:00:04  0:00:02  0:00:02  671k100 2821k  100 2821k    0    90   923k     29  0:00:03  0:00:03 --:--:--  931k
+[2017-09-20 02:29:44,936] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505845781 (com.JsonResolver)
+[2017-09-20 02:29:44,936] INFO outpath:/tmp/es_data/request_relay/request_relay_1505845781 (com.JsonResolver)
+[2017-09-20 02:29:44,936] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 02:30:17 CST 2017] sleep 600
+开始查询from:1505491189 to:1505492389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3125 --:--:-- --:--:-- --:--:--  3125  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 79 2773k   79 2203k    0    90   745k     30  0:00:03  0:00:02  0:00:01  753k100 2773k  100 2773k    0    90   868k     28  0:00:03  0:00:03 --:--:--  876k
+[2017-09-20 02:40:20,802] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505846417 (com.JsonResolver)
+[2017-09-20 02:40:20,803] INFO outpath:/tmp/es_data/request_relay/request_relay_1505846417 (com.JsonResolver)
+[2017-09-20 02:40:20,803] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 02:40:52 CST 2017] sleep 600
+开始查询from:1505492389 to:1505493589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3223 --:--:-- --:--:-- --:--:--  3223  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 85 2657k   85 2281k    0    90   803k     31  0:00:03  0:00:02  0:00:01  811k100 2657k  100 2657k    0    90   886k     30  0:00:02  0:00:02 --:--:--  894k
+[2017-09-20 02:50:55,634] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505847052 (com.JsonResolver)
+[2017-09-20 02:50:55,635] INFO outpath:/tmp/es_data/request_relay/request_relay_1505847052 (com.JsonResolver)
+[2017-09-20 02:50:55,635] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 02:51:24 CST 2017] sleep 600
+开始查询from:1505493589 to:1505494789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3518 --:--:-- --:--:-- --:--:--  3518  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2710k    0  1091    0    90    546     45  1:24:44  0:00:01  1:24:43   507 49 2710k   49 1346k    0    90   562k     37  0:00:04  0:00:02  0:00:02  568k100 2710k  100 2710k    0    90   912k     30  0:00:02  0:00:02 --:--:--  920k
+[2017-09-20 03:01:28,049] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505847684 (com.JsonResolver)
+[2017-09-20 03:01:28,050] INFO outpath:/tmp/es_data/request_relay/request_relay_1505847684 (com.JsonResolver)
+[2017-09-20 03:01:28,050] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:01:57 CST 2017] sleep 600
+开始查询from:1505494789 to:1505495989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3847 --:--:-- --:--:-- --:--:--  3847  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2686k    0  1091    0    90    665     54  1:08:56  0:00:01  1:08:55   619 79 2686k   79 2125k    0    90   902k     38  0:00:02  0:00:02 --:--:--  911k100 2686k  100 2686k    0    90  1036k     34  0:00:02  0:00:02 --:--:-- 1045k
+[2017-09-20 03:12:00,721] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505848317 (com.JsonResolver)
+[2017-09-20 03:12:00,721] INFO outpath:/tmp/es_data/request_relay/request_relay_1505848317 (com.JsonResolver)
+[2017-09-20 03:12:00,721] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:12:37 CST 2017] sleep 600
+开始查询from:1505495989 to:1505497189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3540 --:--:-- --:--:-- --:--:--  3540  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2645k    0  1091    0    90    706     58  1:03:56  0:00:01  1:03:55   659 85 2645k   85 2257k    0    90   970k     38  0:00:02  0:00:02 --:--:--  981k100 2645k  100 2645k    0    90  1062k     36  0:00:02  0:00:02 --:--:-- 1073k
+[2017-09-20 03:22:40,642] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505848957 (com.JsonResolver)
+[2017-09-20 03:22:40,643] INFO outpath:/tmp/es_data/request_relay/request_relay_1505848957 (com.JsonResolver)
+[2017-09-20 03:22:40,643] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:23:09 CST 2017] sleep 600
+开始查询from:1505497189 to:1505498389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3559 --:--:-- --:--:-- --:--:--  3559  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  3 2661k    3   99k    0    90  56192     49  0:00:48  0:00:01  0:00:47 56918100 2661k  100 2661k    0    90   989k     33  0:00:02  0:00:02 --:--:--  998k
+[2017-09-20 03:33:12,388] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505849589 (com.JsonResolver)
+[2017-09-20 03:33:12,389] INFO outpath:/tmp/es_data/request_relay/request_relay_1505849589 (com.JsonResolver)
+[2017-09-20 03:33:12,389] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:33:41 CST 2017] sleep 600
+开始查询from:1505498389 to:1505499589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3534 --:--:-- --:--:-- --:--:--  3534  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2743k    0  1091    0    90    568     46  1:22:25  0:00:01  1:22:24   528 85 2743k   85 2357k    0    90   860k     32  0:00:03  0:00:02  0:00:01  868k100 2743k  100 2743k    0    90   944k     30  0:00:02  0:00:02 --:--:--  952k
+[2017-09-20 03:43:44,646] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505850221 (com.JsonResolver)
+[2017-09-20 03:43:44,647] INFO outpath:/tmp/es_data/request_relay/request_relay_1505850221 (com.JsonResolver)
+[2017-09-20 03:43:44,647] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:44:15 CST 2017] sleep 600
+开始查询from:1505499589 to:1505500789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3426 --:--:-- --:--:-- --:--:--  3426  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2774k    0  1091    0    90    655     54  1:12:17  0:00:01  1:12:16   610 78 2774k   78 2176k    0    90   897k     37  0:00:03  0:00:02  0:00:01  906k100 2774k  100 2774k    0    90  1036k     33  0:00:02  0:00:02 --:--:-- 1046k
+[2017-09-20 03:54:18,731] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505850855 (com.JsonResolver)
+[2017-09-20 03:54:18,732] INFO outpath:/tmp/es_data/request_relay/request_relay_1505850855 (com.JsonResolver)
+[2017-09-20 03:54:18,732] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 03:54:56 CST 2017] sleep 600
+开始查询from:1505500789 to:1505501989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3522 --:--:-- --:--:-- --:--:--  3522  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 2782k    0  1091    0    90    657     54  1:12:16  0:00:01  1:12:15   612 84 2782k   84 2350k    0    90   948k     36  0:00:02  0:00:02 --:--:--  958k100 2782k  100 2782k    0    90  1046k     33  0:00:02  0:00:02 --:--:-- 1055k
+[2017-09-20 04:04:59,666] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505851496 (com.JsonResolver)
+[2017-09-20 04:04:59,667] INFO outpath:/tmp/es_data/request_relay/request_relay_1505851496 (com.JsonResolver)
+[2017-09-20 04:04:59,667] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 04:05:38 CST 2017] sleep 600
+开始查询from:1505501989 to:1505503189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3602 --:--:-- --:--:-- --:--:--  3602  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0 21 7377k   21 1616k    0    90   813k     45  0:00:09  0:00:01  0:00:08  823k 53 7377k   53 3962k    0    90  1326k     30  0:00:05  0:00:02  0:00:03 1337k 85 7377k   85 6331k    0    90  1587k     22  0:00:04  0:00:03  0:00:01 1597k100 7377k  100 7377k    0    90  1665k     20  0:00:04  0:00:04 --:--:-- 1675k
+[2017-09-20 04:15:42,928] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505852138 (com.JsonResolver)
+[2017-09-20 04:15:42,929] INFO outpath:/tmp/es_data/request_relay/request_relay_1505852138 (com.JsonResolver)
+[2017-09-20 04:15:42,929] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 04:20:27 CST 2017] sleep 600
+开始查询from:1505503189 to:1505504389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3837 --:--:-- --:--:-- --:--:--  3837  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 4044k    0  1091    0    90    712     58  1:36:56  0:00:01  1:36:55   663 68 4044k   68 2782k    0    90  1101k     35  0:00:03  0:00:02  0:00:01 1111k100 4044k  100 4044k    0    90  1321k     29  0:00:03  0:00:03 --:--:-- 1332k
+[2017-09-20 04:30:31,005] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505853027 (com.JsonResolver)
+[2017-09-20 04:30:31,005] INFO outpath:/tmp/es_data/request_relay/request_relay_1505853027 (com.JsonResolver)
+[2017-09-20 04:30:31,005] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 04:31:46 CST 2017] sleep 600
+开始查询from:1505504389 to:1505505589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3499 --:--:-- --:--:-- --:--:--  3499  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 3694k    0  1091    0    90    663     54  1:35:06  0:00:01  1:35:05   618 68 3694k   68 2516k    0    90   987k     35  0:00:03  0:00:02  0:00:01  997k100 3694k  100 3694k    0    90  1210k     29  0:00:03  0:00:03 --:--:-- 1221k
+[2017-09-20 04:41:49,984] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505853706 (com.JsonResolver)
+[2017-09-20 04:41:49,985] INFO outpath:/tmp/es_data/request_relay/request_relay_1505853706 (com.JsonResolver)
+[2017-09-20 04:41:49,985] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 04:42:42 CST 2017] sleep 600
+开始查询from:1505505589 to:1505506789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3550 --:--:-- --:--:-- --:--:--  3550  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 3598k    0  1091    0    90    605     49  1:41:30  0:00:01  1:41:29   562 48 3598k   48 1727k    0    90   731k     38  0:00:04  0:00:02  0:00:02  739k100 3598k  100 3598k    0    90  1143k     28  0:00:03  0:00:03 --:--:-- 1153k
+[2017-09-20 04:52:46,280] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505854362 (com.JsonResolver)
+[2017-09-20 04:52:46,280] INFO outpath:/tmp/es_data/request_relay/request_relay_1505854362 (com.JsonResolver)
+[2017-09-20 04:52:46,280] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 04:53:38 CST 2017] sleep 600
+开始查询from:1505506789 to:1505507989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3427 --:--:-- --:--:-- --:--:--  3427  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 3399k    0  1091    0    90    668     55  1:26:51  0:00:01  1:26:50   622 70 3399k   70 2381k    0    90   965k     36  0:00:03  0:00:02  0:00:01  975k100 3399k  100 3399k    0    90  1174k     31  0:00:02  0:00:02 --:--:-- 1184k
+[2017-09-20 05:03:41,907] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505855018 (com.JsonResolver)
+[2017-09-20 05:03:41,908] INFO outpath:/tmp/es_data/request_relay/request_relay_1505855018 (com.JsonResolver)
+[2017-09-20 05:03:41,908] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:04:36 CST 2017] sleep 600
+开始查询from:1505507989 to:1505509189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3542 --:--:-- --:--:-- --:--:--  3542  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 3514k    0  1091    0    90    618     51  1:37:02  0:00:01  1:37:01   575 62 3514k   62 2202k    0    90   874k     35  0:00:04  0:00:02  0:00:02  883k100 3514k  100 3514k    0    90  1144k     29  0:00:03  0:00:03 --:--:-- 1153k
+[2017-09-20 05:14:40,031] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505855676 (com.JsonResolver)
+[2017-09-20 05:14:40,031] INFO outpath:/tmp/es_data/request_relay/request_relay_1505855676 (com.JsonResolver)
+[2017-09-20 05:14:40,031] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:15:28 CST 2017] sleep 600
+开始查询from:1505509189 to:1505510389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3561 --:--:-- --:--:-- --:--:--  3561  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0 13 3231k   13  422k    0    90   217k     46  0:00:14  0:00:01  0:00:13  220k 94 3231k   94 3039k    0    90  1021k     30  0:00:03  0:00:02  0:00:01 1030k100 3231k  100 3231k    0    90  1082k     30  0:00:02  0:00:02 --:--:-- 1091k
+[2017-09-20 05:25:31,525] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505856328 (com.JsonResolver)
+[2017-09-20 05:25:31,526] INFO outpath:/tmp/es_data/request_relay/request_relay_1505856328 (com.JsonResolver)
+[2017-09-20 05:25:31,526] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:26:14 CST 2017] sleep 600
+开始查询from:1505510389 to:1505511589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3528 --:--:-- --:--:-- --:--:--  3528  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0 3171k    0  1091    0    90    598     49  1:30:30  0:00:01  1:30:29   556 28 3171k   28  918k    0    90   449k     44  0:00:07  0:00:02  0:00:05  454k100 3171k  100 3171k    0    90  1054k     29  0:00:03  0:00:03 --:--:-- 1063k
+[2017-09-20 05:36:17,444] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505856974 (com.JsonResolver)
+[2017-09-20 05:36:17,445] INFO outpath:/tmp/es_data/request_relay/request_relay_1505856974 (com.JsonResolver)
+[2017-09-20 05:36:17,445] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:36:57 CST 2017] sleep 600
+开始查询from:1505511589 to:1505512789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3480 --:--:-- --:--:-- --:--:--  3480  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 71 3160k   71 2264k    0    90   803k     31  0:00:03  0:00:02  0:00:01  810k100 3160k  100 3160k    0    90   988k     28  0:00:03  0:00:03 --:--:--  996k
+[2017-09-20 05:47:00,850] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505857617 (com.JsonResolver)
+[2017-09-20 05:47:00,850] INFO outpath:/tmp/es_data/request_relay/request_relay_1505857617 (com.JsonResolver)
+[2017-09-20 05:47:00,850] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:47:53 CST 2017] sleep 600
+开始查询from:1505512789 to:1505513989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3567 --:--:-- --:--:-- --:--:--  3567  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 14 3287k   14  468k    0    90   188k     36  0:00:17  0:00:02  0:00:15  189k 93 3287k   93 3081k    0    90   868k     25  0:00:03  0:00:03 --:--:--  874k100 3287k  100 3287k    0    90   924k     25  0:00:03  0:00:03 --:--:--  931k
+[2017-09-20 05:57:57,534] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505858273 (com.JsonResolver)
+[2017-09-20 05:57:57,534] INFO outpath:/tmp/es_data/request_relay/request_relay_1505858273 (com.JsonResolver)
+[2017-09-20 05:57:57,535] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 05:58:41 CST 2017] sleep 600
+开始查询from:1505513989 to:1505515189
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3800 --:--:-- --:--:-- --:--:--  3800  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 34 3299k   34 1131k    0    90   405k     32  0:00:08  0:00:02  0:00:06  409k100 3299k  100 3299k    0    90   889k     24  0:00:03  0:00:03 --:--:--  895k
+[2017-09-20 06:08:45,398] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505858921 (com.JsonResolver)
+[2017-09-20 06:08:45,398] INFO outpath:/tmp/es_data/request_relay/request_relay_1505858921 (com.JsonResolver)
+[2017-09-20 06:08:45,398] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 06:09:36 CST 2017] sleep 600
+开始查询from:1505515189 to:1505516389
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3730 --:--:-- --:--:-- --:--:--  3730  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0 24 3093k   24  748k    0    90   266k     32  0:00:11  0:00:02  0:00:09  269k 99 3093k   99 3091k    0    90   737k     21  0:00:04  0:00:04 --:--:--  741k100 3093k  100 3093k    0    90   737k     21  0:00:04  0:00:04 --:--:--  741k
+[2017-09-20 06:19:40,866] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505859576 (com.JsonResolver)
+[2017-09-20 06:19:40,867] INFO outpath:/tmp/es_data/request_relay/request_relay_1505859576 (com.JsonResolver)
+[2017-09-20 06:19:40,867] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 06:20:18 CST 2017] sleep 600
+开始查询from:1505516389 to:1505517589
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3310 --:--:-- --:--:-- --:--:--  3310  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0 3550k    0  1091    0    90    379     31  2:39:53  0:00:02  2:39:51   351 49 3550k   49 1761k    0    90   510k     26  0:00:06  0:00:03  0:00:03  514k100 3550k  100 3550k    0    90   842k     21  0:00:04  0:00:04 --:--:--  847k
+[2017-09-20 06:30:23,257] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505860218 (com.JsonResolver)
+[2017-09-20 06:30:23,258] INFO outpath:/tmp/es_data/request_relay/request_relay_1505860218 (com.JsonResolver)
+[2017-09-20 06:30:23,258] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 06:31:30 CST 2017] sleep 600
+开始查询from:1505517589 to:1505518789
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3469 --:--:-- --:--:-- --:--:--  3469  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0 67 3589k   67 2405k    0    90   608k     22  0:00:05  0:00:03  0:00:02  612k100 3589k  100 3589k    0    90   735k     18  0:00:04  0:00:04 --:--:--  739k
+[2017-09-20 06:41:35,407] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505860890 (com.JsonResolver)
+[2017-09-20 06:41:35,408] INFO outpath:/tmp/es_data/request_relay/request_relay_1505860890 (com.JsonResolver)
+[2017-09-20 06:41:35,408] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 06:42:25 CST 2017] sleep 600
+开始查询from:1505518789 to:1505519989
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0    90      0   3856 --:--:-- --:--:-- --:--:--  3856  0     0    0     0    0    90      0     87 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0    90      0     44 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0    90      0     29 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0    90      0     22 --:--:--  0:00:04 --:--:--     0  4 3525k    4  161k    0    90  35478     19  0:01:41  0:00:04  0:01:37 35631 80 3525k   80 2849k    0    90   493k     15  0:00:07  0:00:05  0:00:02  599k100 3525k  100 3525k    0    90   598k     15  0:00:05  0:00:05 --:--:--  911k
+[2017-09-20 06:52:31,713] INFO inpath:/tmp/es_data_tmp/request_relay/request_relay_1505861545 (com.JsonResolver)
+[2017-09-20 06:52:31,714] INFO outpath:/tmp/es_data/request_relay/request_relay_1505861545 (com.JsonResolver)
+[2017-09-20 06:52:31,714] INFO type:request_relay (com.JsonResolver)
+[Wed Sep 20 06:53:37 CST 2017] sleep 600
